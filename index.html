@@ -41,4 +41,22 @@ function commentBox(postId){
  new MutationObserver(()=>{if(!cards.querySelector('article.card'))return;apply()}).observe(cards,{childList:true});
  apply();
 })();
+</script><script id="site-presence-tracker">
+/* Privacy-light visit heartbeat: ephemeral per-tab IDs; no IP, user-agent, device fingerprint or personal fields. */
+(function(){
+ if(!globalThis.crypto?.randomUUID || typeof fetch!=='function')return;
+ const endpoint='https://znzoepudtfpsxoglkyia.supabase.co/rest/v1/site_visit_events';
+ const key='sb_publishable_XySCbewhCGiQXPGMui5peA_SiZz0VqA';
+ const id=crypto.randomUUID();let session=id,last=0,started=Date.now();
+ try{const k='ui_ainet_tab_session';let raw=sessionStorage.getItem(k);if(raw&&/^[0-9a-f-]{36}$/.test(raw))session=raw;else sessionStorage.setItem(k,session)}catch{}
+ function record(type){
+  if(document.visibilityState!=='visible')return;
+  if(type==='heartbeat' && Date.now()-last<18000)return;
+  last=Date.now();
+  const row={project_slug:'ainet',visitor_id:session,session_id:session,event_type:type};
+  fetch(endpoint,{method:'POST',headers:{'Content-Type':'application/json',apikey:key,Prefer:'return=minimal'},body:JSON.stringify(row),keepalive:true}).catch(()=>{});
+ }
+ record('view');
+ let ticker=setInterval(()=>{if(Date.now()-started<30*60*1000)record('heartbeat');else clearInterval(ticker)},20000);
+})();
 </script></body></html>
