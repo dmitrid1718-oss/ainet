@@ -5,6 +5,16 @@
   "updated_at": "2026-11-08",
   "items": [
     {
+      "id": "ai-investigation-control-2026-11-08",
+      "title": "Who Controls Intelligence When Intelligence Becomes Infrastructure?",
+      "category": "ONGOING INVESTIGATION / AUTONOMY",
+      "date": "2026-11-08",
+      "body": "The worst case may begin with a human, not an AI: one compromised insider with sufficient privileges could give criminals access to powerful tools. Other risks include autonomous systems crossing security boundaries and shared AI dependencies amplifying failures. Four threat models, concrete controls, and falsifiable questions. These are scenarios to investigate, not claims of an existing catastrophe.",
+      "source": "UI News Desk · Original investigation",
+      "url": "https://ainet.city/investigations/control-of-intelligence.html",
+      "byline": "UI News Desk"
+    },
+    {
       "id": "ai-20261108-01",
       "title": "AI Research Is Accelerating AI Research",
       "category": "PERFORMANCE / RESEARCH",
