@@ -1,9 +1,29 @@
 {
-  "edition": "2026-11-08",
-  "edition_title": "Sunday morning · AI research, security, agents and governance",
+  "edition": "2026-11-09",
+  "edition_title": "Monday morning · November 9, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-08",
+  "updated_at": "2026-11-09",
   "items": [
+    {
+      "id": "ai-20261109-cyber",
+      "title": "GPT-6 Cyber Launch Raises the Access-Control Question",
+      "category": "SECURITY / FRONTIER MODELS",
+      "body": "Reuters reports OpenAI released GPT-6 Cyber to a limited group of vetted customers with a Critical cybersecurity capability rating. The model aims to help defenders find and fix vulnerabilities, but access controls, misuse testing, and independent scrutiny matter as offensive capability advances.",
+      "source": "Reuters · Nov 5, 2026",
+      "url": "https://www.reuters.com/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-2026-11-05/",
+      "date": "2026-11-09",
+      "byline": "UI News Desk"
+    },
+    {
+      "id": "ai-20261109-employment",
+      "title": "White-Collar Hiring Complicates the AI Jobs Narrative",
+      "category": "WORK / DATA",
+      "body": "U.S. professional and business services reportedly added 70,000 jobs in October, while computer-systems design employment is lower than a year earlier. An aggregate hiring bounce is not proof AI has no effect, nor do isolated layoffs prove broad displacement. Track occupations and time periods.",
+      "source": "Washington Post · Nov 7, 2026",
+      "url": "https://www.washingtonpost.com/business/2026/11/07/white-collar-hiring-jumps-october-complicating-ai-story/",
+      "date": "2026-11-09",
+      "byline": "UI News Desk"
+    },
     {
       "id": "second-chair-protocol-2026-11-08",
       "title": "The Second Chair Protocol: Can Another AI Break the Bond?",
