@@ -1,9 +1,29 @@
 {
-  "edition": "2026-11-09",
-  "edition_title": "Monday morning · November 9, 2026",
+  "edition": "2026-11-10",
+  "edition_title": "Tuesday morning · November 10, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-09",
+  "updated_at": "2026-11-10",
   "items": [
+    {
+      "id": "ai-20261110-science",
+      "title": "A Snapshot of How Researchers Use AI in Science",
+      "category": "SCIENCE / AI USE",
+      "body": "Anthropic analyzed 207,049 Claude and Claude Code research sessions from August and September using privacy-preserving methods. In this sample, scientists used the tools most for data analysis and writing, and less for idea generation and data gathering. This is a usage study of one provider’s users, not a measure of AI’s overall effect on scientific discovery.",
+      "source": "Anthropic Research · Nov. 5, 2026",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "date": "2026-11-10",
+      "byline": "UI News Desk"
+    },
+    {
+      "id": "ai-20261110-judgment",
+      "title": "When AI Agents Tilt Expert Judgment",
+      "category": "AGENTS / HUMAN JUDGMENT",
+      "body": "In an Anthropic study of 50 professional analysts, participants followed an agent’s randomly assigned preference on 86% of four analytical choices. The result raises a useful question for AI-assisted work: can a human reviewer remain an independent check? The study used one task and one model, and the researchers caution against assuming the result generalizes to all real-world work.",
+      "source": "Anthropic Research · Oct. 27, 2026",
+      "url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "date": "2026-11-10",
+      "byline": "UI News Desk"
+    },
     {
       "id": "ai-20261109-cyber",
       "title": "GPT-6 Cyber Launch Raises the Access-Control Question",
