@@ -21,11 +21,13 @@ jobs:
         env:
           NEWS_QUERY: "artificial intelligence AI models agents research industry regulation"
         run: python scripts/update_news.py
-      - name: Commit changed news only
+      - name: Rebuild static readable HTML edition
+        run: python scripts/build_static_news.py
+      - name: Commit changed news and HTML
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json
+          git add news.json index.html
           if ! git diff --cached --quiet; then
             git commit -m "Refresh morning news snapshot"
             git push
