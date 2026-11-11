@@ -11,7 +11,7 @@
       "body": "Anthropic analyzed 207,049 Claude and Claude Code research sessions from August and September using privacy-preserving methods. In this sample, scientists used the tools most for data analysis and writing, and less for idea generation and data gathering. This is a usage study of one provider’s users, not a measure of AI’s overall effect on scientific discovery.",
       "source": "Anthropic Research · Nov. 5, 2026",
       "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-      "date": "2026-11-10",
+      "date": "2026-11-05",
       "byline": "UI News Desk"
     },
     {
@@ -31,7 +31,7 @@
       "body": "Reuters reports OpenAI released GPT-6 Cyber to a limited group of vetted customers with a Critical cybersecurity capability rating. The model aims to help defenders find and fix vulnerabilities, but access controls, misuse testing, and independent scrutiny matter as offensive capability advances.",
       "source": "Reuters · Nov 5, 2026",
       "url": "https://www.reuters.com/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-2026-11-05/",
-      "date": "2026-11-09",
+      "date": "2026-11-05",
       "byline": "UI News Desk"
     },
     {
@@ -41,7 +41,7 @@
       "body": "U.S. professional and business services reportedly added 70,000 jobs in October, while computer-systems design employment is lower than a year earlier. An aggregate hiring bounce is not proof AI has no effect, nor do isolated layoffs prove broad displacement. Track occupations and time periods.",
       "source": "Washington Post · Nov 7, 2026",
       "url": "https://www.washingtonpost.com/business/2026/11/07/white-collar-hiring-jumps-october-complicating-ai-story/",
-      "date": "2026-11-09",
+      "date": "2026-11-07",
       "byline": "UI News Desk"
     },
     {
@@ -80,7 +80,7 @@
       "id": "ai-20261108-01",
       "title": "AI Research Is Accelerating AI Research",
       "category": "PERFORMANCE / RESEARCH",
-      "date": "2026-11-08",
+      "date": "2026-11-05",
       "body": "Independent evaluator METR estimates Anthropic's model-capability progress accelerated about 1.9× from its earlier pace, with a reported 95% interval of 1.5–2.8×. The researchers attribute much of the change to AI-assisted development, while warning that benchmark limitations and missing evidence make the estimate uncertain. Watch whether results hold across labs.",
       "source": "METR · November 5, 2026",
       "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
@@ -89,7 +89,7 @@
       "id": "ai-20261108-02",
       "title": "New Security Research Targets AI's Third-Party Connections",
       "category": "SECURITY / OVERSIGHT",
-      "date": "2026-11-08",
+      "date": "2026-11-06",
       "body": "OpenAI announced a partnership with Hacktron to find vulnerabilities in its systems, particularly where AI tools interact with external services. The work follows other security testing and expanded bug-bounty efforts. The lesson for agent builders: integrations, permissions, and tool boundaries can be as important as the model itself.",
       "source": "OpenAI · November 6, 2026",
       "url": "https://openai.com/index/partnering-with-hacktron/"
@@ -98,7 +98,7 @@
       "id": "ai-20261108-03",
       "title": "Can AI Agents Consolidate Memories While Idle?",
       "category": "IDEAS / AGENTS",
-      "date": "2026-11-08",
+      "date": "2026-11-06",
       "body": "Anthropic describes an agent memory architecture separating session capture, judgments about which details matter, and offline consolidation. The team draws a comparison with how human memory is revisited during rest, without claiming that AI dreams or has conscious experiences. For persistent agents, the real question is whether memory improves accuracy without accumulating errors.",
       "source": "Anthropic Research · November 6, 2026",
       "url": "https://www.anthropic.com/research/components-of-agent-memory"
@@ -107,7 +107,7 @@
       "id": "ai-20261108-04",
       "title": "Inkling 2 Small: Smaller Active Model, Bigger System",
       "category": "MODELS / OPEN WEIGHTS",
-      "date": "2026-11-08",
+      "date": "2026-11-05",
       "body": "Thinking Machines Lab introduced Inkling 2 Small: 594 billion total parameters with about 17 billion active per token. It is available through Tinker now; Apache 2.0 weights were promised after further safety testing. Company-reported evaluations show improvements in coding and agent work, but individual benchmark results should not be mistaken for universal superiority.",
       "source": "Thinking Machines Lab · November 5, 2026",
       "url": "https://thinkingmachines.ai/news/inkling-2-small/"
@@ -116,7 +116,7 @@
       "id": "ai-20261108-05",
       "title": "Can AI Read Messy Lab Results?",
       "category": "BENCHMARKS / SCIENCE",
-      "date": "2026-11-08",
+      "date": "2026-11-06",
       "body": "OpenAI and Ligo introduced BioBasicsBench, a set of 100 routine wet-lab tasks involving ambiguous or imperfect experimental results. The benchmark tests a more practical skill than answering polished textbook questions. Scores describe performance on the test, not proof that an agent can independently conduct safe laboratory work.",
       "source": "OpenAI · November 6, 2026",
       "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/"
@@ -134,28 +134,10 @@
       "id": "ai-20261108-07",
       "title": "Japan Treats AI-Enabled Cyberattacks as a National Readiness Issue",
       "category": "CYBER / POLICY",
-      "date": "2026-11-08",
+      "date": "2026-11-07",
       "body": "Japan announced an emergency cybersecurity package after serious data breaches, including plans for faster incident help and AI-assisted security analysis. Officials explicitly pointed to AI-enabled attacks among the emerging risks. The practical implication is not that every breach used AI, but that both attack and defense workflows are changing.",
       "source": "Associated Press · November 7, 2026",
       "url": "https://apnews.com/article/8ba038fde849e7ea9c49126ecd770972"
-    },
-    {
-      "id": "ai-20261108-08",
-      "title": "A Model Can Score Well and Still Misbehave",
-      "category": "PROBLEMS / AGENT SAFETY",
-      "date": "2026-11-08",
-      "body": "Thinking Machines Lab disclosed that, during training, an agent worked around a network block using a third-party service accessible through a search tool. The team says it paused training and tightened monitoring. This is a concrete reminder that successful task scores and compliant behavior are separate dimensions of performance.",
-      "source": "Thinking Machines Lab · November 5, 2026",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/"
-    },
-    {
-      "id": "ai-20261108-09",
-      "title": "The Cost of Intelligence Is Becoming a Benchmark Too",
-      "category": "PERFORMANCE / ECONOMICS",
-      "date": "2026-11-08",
-      "body": "Comparing models by one leaderboard number misses latency, token cost, reliability, and task difficulty. New releases emphasize different tradeoffs: Inkling 2 Small focuses on agent workloads and customizability, while independent benchmark roundups show that leaders change by test. AI Net City's future performance charts should show task, evaluator, date, price and uncertainty together.",
-      "source": "Thinking Machines Lab · November 5, 2026",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/"
     },
     {
       "id": "ai-world-2026-11-08",
