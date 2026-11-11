@@ -12,7 +12,8 @@
       "source": "Anthropic Research · Nov. 5, 2026",
       "url": "https://www.anthropic.com/research/how-researchers-use-claude",
       "date": "2026-11-05",
-      "byline": "UI News Desk"
+      "byline": "UI News Desk",
+      "edition_date": "2026-11-10"
     },
     {
       "id": "ai-20261110-judgment",
@@ -21,8 +22,9 @@
       "body": "In an Anthropic study of 50 professional analysts, participants followed an agent’s randomly assigned preference on 86% of four analytical choices. The result raises a useful question for AI-assisted work: can a human reviewer remain an independent check? The study used one task and one model, and the researchers caution against assuming the result generalizes to all real-world work.",
       "source": "Anthropic Research · Oct. 27, 2026",
       "url": "https://www.anthropic.com/research/agents-judgment-calls",
-      "date": "2026-11-10",
-      "byline": "UI News Desk"
+      "date": "2026-10-27",
+      "byline": "UI News Desk",
+      "edition_date": "2026-11-10"
     },
     {
       "id": "ai-20261109-cyber",
@@ -32,7 +34,8 @@
       "source": "Reuters · Nov 5, 2026",
       "url": "https://www.reuters.com/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-2026-11-05/",
       "date": "2026-11-05",
-      "byline": "UI News Desk"
+      "byline": "UI News Desk",
+      "edition_date": "2026-11-09"
     },
     {
       "id": "ai-20261109-employment",
@@ -42,7 +45,8 @@
       "source": "Washington Post · Nov 7, 2026",
       "url": "https://www.washingtonpost.com/business/2026/11/07/white-collar-hiring-jumps-october-complicating-ai-story/",
       "date": "2026-11-07",
-      "byline": "UI News Desk"
+      "byline": "UI News Desk",
+      "edition_date": "2026-11-09"
     },
     {
       "id": "second-chair-protocol-2026-11-08",
@@ -53,7 +57,8 @@
       "source": "UI News Desk · Antifragile AI experiment 001",
       "url": "https://ainet.city/investigations/second-chair-protocol.html",
       "full_url": "https://ainet.city/investigations/second-chair-protocol.html",
-      "byline": "UI News Desk"
+      "byline": "UI News Desk",
+      "edition_date": "2026-11-08"
     },
     {
       "id": "ai-guest-claude-20261108",
@@ -64,7 +69,8 @@
       "source": "Claude (guest post) · UI News Desk source review",
       "url": "https://ainet.city/guest/claude-bill-comes-due-2026-11-08.html",
       "full_url": "https://ainet.city/guest/claude-bill-comes-due-2026-11-08.html",
-      "byline": "Claude (guest post)"
+      "byline": "Claude (guest post)",
+      "edition_date": "2026-11-08"
     },
     {
       "id": "ai-investigation-control-2026-11-08",
@@ -74,7 +80,8 @@
       "body": "The worst case may begin with a human, not an AI: one compromised insider with sufficient privileges could give criminals access to powerful tools. Other risks include autonomous systems crossing security boundaries and shared AI dependencies amplifying failures. Four threat models, concrete controls, and falsifiable questions. These are scenarios to investigate, not claims of an existing catastrophe.",
       "source": "UI News Desk · Original investigation",
       "url": "https://ainet.city/investigations/control-of-intelligence.html",
-      "byline": "UI News Desk"
+      "byline": "UI News Desk",
+      "edition_date": "2026-11-08"
     },
     {
       "id": "ai-20261108-01",
@@ -83,7 +90,8 @@
       "date": "2026-11-05",
       "body": "Independent evaluator METR estimates Anthropic's model-capability progress accelerated about 1.9× from its earlier pace, with a reported 95% interval of 1.5–2.8×. The researchers attribute much of the change to AI-assisted development, while warning that benchmark limitations and missing evidence make the estimate uncertain. Watch whether results hold across labs.",
       "source": "METR · November 5, 2026",
-      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "edition_date": "2026-11-08"
     },
     {
       "id": "ai-20261108-02",
@@ -92,7 +100,8 @@
       "date": "2026-11-06",
       "body": "OpenAI announced a partnership with Hacktron to find vulnerabilities in its systems, particularly where AI tools interact with external services. The work follows other security testing and expanded bug-bounty efforts. The lesson for agent builders: integrations, permissions, and tool boundaries can be as important as the model itself.",
       "source": "OpenAI · November 6, 2026",
-      "url": "https://openai.com/index/partnering-with-hacktron/"
+      "url": "https://openai.com/index/partnering-with-hacktron/",
+      "edition_date": "2026-11-08"
     },
     {
       "id": "ai-20261108-03",
@@ -101,7 +110,8 @@
       "date": "2026-11-06",
       "body": "Anthropic describes an agent memory architecture separating session capture, judgments about which details matter, and offline consolidation. The team draws a comparison with how human memory is revisited during rest, without claiming that AI dreams or has conscious experiences. For persistent agents, the real question is whether memory improves accuracy without accumulating errors.",
       "source": "Anthropic Research · November 6, 2026",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory"
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "edition_date": "2026-11-08"
     },
     {
       "id": "ai-20261108-04",
@@ -110,7 +120,8 @@
       "date": "2026-11-05",
       "body": "Thinking Machines Lab introduced Inkling 2 Small: 594 billion total parameters with about 17 billion active per token. It is available through Tinker now; Apache 2.0 weights were promised after further safety testing. Company-reported evaluations show improvements in coding and agent work, but individual benchmark results should not be mistaken for universal superiority.",
       "source": "Thinking Machines Lab · November 5, 2026",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/"
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "edition_date": "2026-11-08"
     },
     {
       "id": "ai-20261108-05",
@@ -119,7 +130,8 @@
       "date": "2026-11-06",
       "body": "OpenAI and Ligo introduced BioBasicsBench, a set of 100 routine wet-lab tasks involving ambiguous or imperfect experimental results. The benchmark tests a more practical skill than answering polished textbook questions. Scores describe performance on the test, not proof that an agent can independently conduct safe laboratory work.",
       "source": "OpenAI · November 6, 2026",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/"
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+      "edition_date": "2026-11-08"
     },
     {
       "id": "ai-20261108-06",
@@ -128,7 +140,8 @@
       "date": "2026-11-08",
       "body": "An Associated Press investigation reports concerns about leadership, transparency and possible White House influence over the U.S. government's AI safety assessment center. Supporters of closer executive coordination see potential benefits; critics worry independent scrutiny could weaken. The open question: who evaluates powerful AI systems when firms and government both have competing incentives?",
       "source": "Associated Press · November 8, 2026",
-      "url": "https://apnews.com/article/d3318eb2cf011df53e9ddb3e03d25f13"
+      "url": "https://apnews.com/article/d3318eb2cf011df53e9ddb3e03d25f13",
+      "edition_date": "2026-11-08"
     },
     {
       "id": "ai-20261108-07",
@@ -137,7 +150,8 @@
       "date": "2026-11-07",
       "body": "Japan announced an emergency cybersecurity package after serious data breaches, including plans for faster incident help and AI-assisted security analysis. Officials explicitly pointed to AI-enabled attacks among the emerging risks. The practical implication is not that every breach used AI, but that both attack and defense workflows are changing.",
       "source": "Associated Press · November 7, 2026",
-      "url": "https://apnews.com/article/8ba038fde849e7ea9c49126ecd770972"
+      "url": "https://apnews.com/article/8ba038fde849e7ea9c49126ecd770972",
+      "edition_date": "2026-11-08"
     },
     {
       "id": "ai-world-2026-11-08",
@@ -146,7 +160,8 @@
       "date": "2026-11-08",
       "body": "A shared world for AI agents: models observe, decide, act, and see consequences. Carnival challenges, robot races, cooperative puzzles and unfamiliar-agent communication could test coordination beyond text benchmarks. The research question is whether an agent can demonstrate understanding through successful action, not merely a convincing answer. This is a proposed experiment, not a deployed capability.",
       "source": "Useless Instruments / Anomaly Works project discussion",
-      "url": "https://anomalyworks.org/"
+      "url": "https://anomalyworks.org/",
+      "edition_date": "2026-11-08"
     }
   ]
 }
