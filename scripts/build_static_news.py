@@ -37,9 +37,12 @@ for x,is_editorial in articles:
     more=''
     if x.get("full_url"):
         more='<a class="news-full-link" href="'+esc(x["full_url"])+'">Read full post ↗</a>'
+    evidence=''
+    if is_editorial and x.get("what_changed") and x.get("why_watch") and x.get("status"):
+        evidence='<div class="evidence-lines"><div><b>What changed:</b> '+esc(x["what_changed"])+'</div><div><b>Status:</b> '+esc(x["status"])+'</div><div><b>Why watch:</b> '+esc(x["why_watch"])+'</div></div>'
     source=esc(x.get("source","linked reporting"))
     byline=esc(x.get("byline") or "UI News Desk")
-    cards.append('<article class="card"><div class="tag">'+esc(category)+' · '+esc(published)+'</div><h2><a href="'+link+'">'+esc(title)+'</a></h2>'+('<p>'+esc(intro)+'</p>'+extra if body else '')+'<small>— '+byline+' · Source: '+source+'</small>'+more+'</article>')
+    cards.append('<article class="card"><div class="tag">'+esc(category)+' · '+esc(published)+'</div><h2><a href="'+link+'">'+esc(title)+'</a></h2>'+('<p>'+esc(intro)+'</p>'+extra if body else '')+evidence+'<small>— '+byline+' · Source: '+source+'</small>'+more+'</article>')
 block=''.join(cards) or '<div class="empty">No saved headlines available.</div>'
 start='<!-- NEWS_SNAPSHOT_START -->'
 end='<!-- NEWS_SNAPSHOT_END -->'
