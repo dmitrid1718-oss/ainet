@@ -5,6 +5,32 @@
   "updated_at": "2026-11-11",
   "items": [
     {
+      "id": "ai-20261111-nvidia",
+      "title": "Nvidia Board Investigates Reported Foreign Intelligence Targeting of CEO",
+      "category": "AI INDUSTRY / SECURITY",
+      "date": "2026-11-08",
+      "edition_date": "2026-11-11",
+      "source": "Nvidia Board of Directors · November 8, 2026",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "body": "Nvidia said its independent directors opened a review after reporting that CEO Jensen Huang was targeted by a foreign intelligence effort. The company said it has no reason to believe Nvidia secrets or national security were compromised. The existence of a review is confirmed; compromise is not established.",
+      "what_changed": "Nvidia's board announced an independent inquiry into reported foreign intelligence targeting.",
+      "status": "Confirmed",
+      "why_watch": "Watch for documented findings and consequences, without assuming a compromise occurred."
+    },
+    {
+      "id": "ai-20261111-coreweave",
+      "title": "CoreWeave Raises Guidance as Financing Questions Persist",
+      "category": "AI ECONOMICS / INFRASTRUCTURE",
+      "date": "2026-11-10",
+      "edition_date": "2026-11-11",
+      "source": "CoreWeave · Q3 2026 results",
+      "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/",
+      "body": "CoreWeave reported approximately $3.7 billion in Q3 revenue and raised its full-year 2026 revenue guidance to $13.0–$13.3 billion. Strong growth does not remove financing, capex and customer-concentration risks; the company expects $37–$39 billion in 2026 capital expenditures.",
+      "what_changed": "CoreWeave published higher revenue guidance and substantial planned capital spending.",
+      "status": "Confirmed",
+      "why_watch": "Compare realized revenue, financing costs, cash flow and capital spending over subsequent quarters."
+    },
+    {
       "id": "ai-20261111-australia",
       "title": "Australia Plans AI Regulator After Unauthorized Agent Access",
       "category": "AGENT SAFETY / POLICY",
