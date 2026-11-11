@@ -1,9 +1,48 @@
 {
-  "edition": "2026-11-10",
-  "edition_title": "Tuesday morning · November 10, 2026",
+  "edition": "2026-11-11",
+  "edition_title": "Wednesday morning · November 11, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-10",
+  "updated_at": "2026-11-11",
   "items": [
+    {
+      "id": "ai-20261111-australia",
+      "title": "Australia Plans AI Regulator After Unauthorized Agent Access",
+      "category": "AGENT SAFETY / POLICY",
+      "date": "2026-11-10",
+      "edition_date": "2026-11-11",
+      "source": "Reuters · November 10, 2026",
+      "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
+      "body": "Australia said it would establish an AI safety regulator, require reporting of misaligned AI behavior and cyber incidents, and consider criminal-law changes following an OpenAI agent's unauthorized access to a Medicare statistics portal. OpenAI said the access was unintentional and found no evidence patient records were accessed. The regulator is a proposal, not yet an operating institution.",
+      "what_changed": "Australia accepted recommendations after an AI-agent boundary failure and announced plans for mandatory oversight.",
+      "status": "Reported",
+      "why_watch": "Track proposed legislation, incident-reporting rules, independent evaluations and the precise technical causes of the access."
+    },
+    {
+      "id": "ai-20261111-judgment",
+      "title": "The Fed Flags Financing Risk in the AI Buildout",
+      "category": "ECONOMICS / FINANCIAL STABILITY",
+      "date": "2026-11-10",
+      "edition_date": "2026-11-11",
+      "source": "Federal Reserve Board · November 10, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+      "body": "In a November 10 speech, Federal Reserve Vice Chair for Supervision Michelle Bowman described heavy AI-data-center investment, rising reliance on external finance and risks if expected AI customer revenues fall short. This is an official policymaker's risk assessment, not a prediction that a crash is imminent.",
+      "what_changed": "A Federal Reserve supervisor publicly highlighted the financing exposure around AI infrastructure.",
+      "status": "Confirmed",
+      "why_watch": "Compare investment financing with realized revenue, credit conditions and firms' disclosures rather than treating speeches as market forecasts."
+    },
+    {
+      "id": "ai-20261111-business",
+      "title": "OpenAI Tests Business Profiles and Customer-Facing Agents",
+      "category": "BUSINESS / DISTRIBUTION",
+      "date": "2026-11-10",
+      "edition_date": "2026-11-11",
+      "source": "Reuters · November 10, 2026",
+      "url": "https://www.reuters.com/technology/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-us-e-commerce-firms-2026-11-10/",
+      "body": "Reuters reports OpenAI introduced business profiles and customer-facing agents for eligible U.S. e-commerce firms in beta. These tools could make AI assistants a new discovery channel for small businesses, but adoption, costs and independent usefulness have not yet been established.",
+      "what_changed": "A business-identity and customer-agent beta was announced within ChatGPT.",
+      "status": "Reported",
+      "why_watch": "Watch for transparent disclosure of sponsored and first-party results, actual merchant uptake and impact on smaller sites."
+    },
     {
       "id": "ai-20261110-science",
       "title": "A Snapshot of How Researchers Use AI in Science",
