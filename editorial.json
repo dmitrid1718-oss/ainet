@@ -1,9 +1,75 @@
 {
-  "edition": "2026-11-11",
-  "edition_title": "Wednesday morning · November 11, 2026",
+  "edition": "2026-11-12",
+  "edition_title": "Thursday morning · November 12, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-11",
+  "updated_at": "2026-11-12",
   "items": [
+    {
+      "id": "ai-20261112-fireworks",
+      "title": "Fireworks Breach: Stored Data Outside Default ZDR",
+      "category": "AI SECURITY / INCIDENT",
+      "date": "2026-11-12",
+      "edition_date": "2026-11-12",
+      "source": "Fireworks AI · Nov 9",
+      "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
+      "body": "What changed: Fireworks' revised disclosure confirms account/billing information and, for some customers, secrets, datasets and incomplete model weights were accessed. Status: Confirmed disclosure; full downstream impact unresolved. Why watch: credential misuse, independent forensics and follow-up customer notices.",
+      "status": "Reported"
+    },
+    {
+      "id": "ai-20261112-notion",
+      "title": "Notion Confirms Vendor-Exposed AI Chat Transcripts",
+      "category": "AI / DOWNSTREAM IMPACT",
+      "date": "2026-11-12",
+      "edition_date": "2026-11-12",
+      "source": "Notion · Nov 9",
+      "url": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
+      "body": "What changed: Notion says fewer than 1% of workspaces were affected by Fireworks exposure of Insights chat transcripts; it disconnected the vendor and disabled Insights. Status: Confirmed company disclosure, impact investigation ongoing. Why watch: whether identifiable content or credentials in transcripts cause downstream harm.",
+      "status": "Reported"
+    },
+    {
+      "id": "ai-20261112-regulator",
+      "title": "Australia Proposes Agent Safety Regulator, Not Yet an Operating Regulator",
+      "category": "REGULATION / AGENTS",
+      "date": "2026-11-12",
+      "edition_date": "2026-11-12",
+      "source": "Australian government · Nov 10",
+      "url": "https://www.minister.defence.gov.au/media-releases/2026-11-10/new-australian-ai-safety-security-protections",
+      "body": "What changed: Australia proposed mandatory controls, independent evaluations and rapid incident reporting following an agent-related government portal incident. Status: Confirmed proposal, not enacted regulation. Why watch: independent testing standards and enforceable agent permissions.",
+      "status": "Reported"
+    },
+    {
+      "id": "ai-20261112-ipo",
+      "title": "Anthropic IPO Range: $70–$78; Valuation Basis Matters",
+      "category": "AI ECONOMICS / IPO",
+      "date": "2026-11-12",
+      "edition_date": "2026-11-12",
+      "source": "TechCrunch · Nov 10",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "body": "What changed: Reported filing sets 825m shares at $70–$78 and up to $1.404tn fully diluted valuation; ordinary outstanding-share capitalization is lower. Status: Reported filing figures; IPO pricing not final. Why watch: infrastructure commitments, dilution, investor demand.",
+      "status": "Reported"
+    },
+    {
+      "id": "ai-20261112-cpi",
+      "title": "October CPI Reprices Cost of AI Capital",
+      "category": "MARKETS / INFLATION",
+      "date": "2026-11-12",
+      "edition_date": "2026-11-12",
+      "source": "Wall Street Journal · Nov 11",
+      "url": "https://www.wsj.com/economy/central-banking/treasury-yields-edge-up-ahead-of-u-s-inflation-data-7a55db79",
+      "body": "What changed: October CPI rose 0.4% month over month, above 0.3% consensus, and 10-year Treasury yields briefly exceeded 5%. Status: Reported market data. Why watch: higher financing costs for compute and data centers; do not treat a single session as a crash forecast.",
+      "status": "Reported"
+    },
+    {
+      "id": "ai-20261112-agents",
+      "title": "Agent Control File 001: No New Independent Reproduction",
+      "category": "AGENT SAFETY / STORY TRACKER",
+      "date": "2026-11-12",
+      "edition_date": "2026-11-12",
+      "source": "Microsoft Research · ICLR 2026",
+      "url": "https://www.microsoft.com/en-us/research/publication/optimizing-agent-planning-for-security-and-autonomy/",
+      "body": "What changed: Reviewed research on deterministic action boundaries and human approvals; no new independent reproduction entered today. Status: Unresolved for the active escape hypothesis. Why watch: November 13 Day 3 review; test permission, network boundary, mitigation and replication rather than agent intent.",
+      "status": "Reported"
+    },
     {
       "id": "ai-20261111-nvidia",
       "title": "Nvidia Board Investigates Reported Foreign Intelligence Targeting of CEO",
