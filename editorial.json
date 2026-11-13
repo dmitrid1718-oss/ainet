@@ -17,6 +17,33 @@
       "byline": "UI News Desk"
     },
     {
+      "id": "ai-20261113-google-capex-thompson-center",
+      "title": "Google’s AI Infrastructure Bill Grows; Chicago’s Thompson Center Is Set for 2028",
+      "category": "AI ECONOMICS / INFRASTRUCTURE",
+      "date": "2026-11-13",
+      "edition_date": "2026-11-13",
+      "source": "Alphabet Investor Relations · Google Thompson Center update",
+      "url": "https://abc.xyz/investor/events/event-details/2026/2026-Q2-Earnings-Call-2026-GgTAq7Is0z/default.aspx",
+      "body": "Two separate timelines make an interesting contrast. Alphabet reported $44.9 billion in Q2 capital spending, above $39.1 billion in operating cash flow, leaving quarterly free cash flow at -$5.9 billion; its 2026 capex guidance is $195–205 billion. Google separately says Chicago’s Thompson Center is planned to open in 2028. It has not said the project delay is connected to AI spending.",
+      "what_changed": "Alphabet’s Q2 figures show infrastructure spending exceeding quarterly operating cash flow; Google’s latest Thompson Center opening target is 2028.",
+      "status": "Company figures and the 2028 target are documented. No public evidence links the office delay to AI capex.",
+      "why_watch": "Track whether heavy AI infrastructure spending produces lasting revenue; don’t treat one delayed office project as proof of a spending shift.",
+      "full_url": "https://www.google.com/"
+    },
+    {
+      "id": "ai-20261113-nvidia-transition",
+      "title": "Nvidia Without Jensen: A Leadership Transition at the Center of the AI Boom",
+      "category": "AI INDUSTRY / LEADERSHIP",
+      "date": "2026-11-12",
+      "edition_date": "2026-11-13",
+      "source": "NVIDIA · company announcement",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition/",
+      "body": "NVIDIA says Jensen Huang resigned effective immediately. CFO Colette Kress is interim CEO and will keep the CFO role while the board searches for a permanent successor; Harvey C. Jones is the board’s first chair. The company announcement gives no reason for Huang’s departure. Separate press reports describe allegations and board scrutiny; treat those accounts as reporting, not as a company-confirmed explanation.",
+      "what_changed": "NVIDIA confirmed Huang’s resignation, named Kress interim CEO and began a search for a permanent successor.",
+      "status": "Confirmed transition; the company announcement does not state a reason.",
+      "why_watch": "The leadership change arrives ahead of NVIDIA’s Nov. 17 results, with the company central to AI computing supply."
+    },
+    {
       "id": "ai-20261112-fireworks",
       "title": "Fireworks Breach: Stored Data Outside Default ZDR",
       "category": "AI SECURITY / INCIDENT",
