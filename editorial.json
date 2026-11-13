@@ -1,9 +1,21 @@
 {
-  "edition": "2026-11-12",
-  "edition_title": "Thursday morning · November 12, 2026",
+  "edition": "2026-11-13",
+  "edition_title": "Friday morning · November 13, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-12",
+  "updated_at": "2026-11-13",
   "items": [
+    {
+      "id": "ainet-20261113-desk",
+      "title": "AI agents: Day 3 review due",
+      "category": "AGENT SAFETY / DAY 3",
+      "date": "2026-11-13",
+      "edition_date": "2026-11-13",
+      "source": "www.reuters.com",
+      "url": "https://www.reuters.com/world/us/trumps-ai-task-force-met-thursday-discussed-ai-powered-cyberattacks-2026-11-13/",
+      "body": "What changed: US officials reportedly discussed AI cyber incident reporting and national standards. Status: Reported policy discussion, not independently reproduced boundary failure. Why watch: reproducible permission and network boundary tests, independent evaluations and mitigation evidence. Correction: discussions are not enacted rules.",
+      "status": "Reported",
+      "byline": "UI News Desk"
+    },
     {
       "id": "ai-20261112-fireworks",
       "title": "Fireworks Breach: Stored Data Outside Default ZDR",
