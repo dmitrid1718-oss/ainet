@@ -1,31 +1,25 @@
 {
-  "updated_at": "2026-11-13T17:55:38.620411+00:00",
+  "updated_at": "2026-11-14T16:39:19.747759+00:00",
   "feed": "Google News RSS",
   "query": "artificial intelligence AI models agents research industry regulation",
   "items": [
     {
-      "title": "ASEAN AI Regulation: 49th Summit Puts AI Center Stage - shattered.io",
+      "title": "MIT Researchers Create Roadmap to Help Organizations Mitigate AI Risks - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOG1MMzd3bVcwVi1Sd0hPQkpzOF9NcmQ2U2RZU3NsNnYtQUVjeG14OFJyNjZBaWJiZzlRQnNjUndxNWJ1U1FibS15cHNLakVUUTFfcnFlRDZsazdybDVBdVN1VW45VUVfWmNOOExtc3N2NjkyYzRmaWNPeHhGR0VVWjNxbDN1U2h6YjVGdTJhNjhOUVdPUWNvaGZVbjRFR3JVQUM2VDRRTUJLVEFkcXNla2Fsbw?oc=5",
+      "source": "HPCwire",
+      "published": "2026-11-14T02:11:28+00:00"
+    },
+    {
+      "title": "Should Multiple AI Agents Collaborate Under Governance, Auditability, and Regulatory Constraints in a Global Financial Institution? - Communications of the ACM",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZG5WNWFQem5XUktlZTRST0ZlaE5FbUNmd212ZDdtYU1KZ25feF9GT2RZZmlrWFp1X2ZtQnNSM3FCVmVpaXFfcG5Jbi05Y0w5eFU2d2J2U3UzY1Y2T3kteDRLd2RHY3lPZTBkQWFSSlBNNkRnSnQtemZuNjhfcnR5OFpNck0zd3dVSC1kU0tnZzZxSXhrOGZ3ekNpbFlwbUdLZVdib29GMXJ1WVVhZXBwZDZYVnJPQVpXUDduTFVMT3FoWk9aeHlvSC16NTdRVFNLaGdFV0EwQVc1dzFNYjAtNEViOXhPUDdyZml1QUVjbV8?oc=5",
+      "source": "Communications of the ACM",
+      "published": "2026-11-13T16:12:50+00:00"
+    },
+    {
+      "title": "49th ASEAN Summit Puts AI Center Stage, 1 Pact to Sign - shattered.io",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWFjc0tGRkdVcGlPYktLYjRDX2wxbDJZdXgzQzBXcVZyOW84eFltWUhudUF5SFZHUDk5c2xHd0xUdlQxVmMyNk4tcUhfY1BsVzVzYVpoNGFQMkdwR0RyMloyYmVabTB1cTYwSGZmdlFqN05lRENQbExXaGhIeHZrUWpaYVVTbGdCNzBpSEI3V1hwRTBTVUZ4TUZ3?oc=5",
       "source": "shattered.io",
-      "published": "2026-11-13T10:48:56+00:00"
-    },
-    {
-      "title": "Thomson Reuters taps CUBE for legal AI regulatory data - IT Brief Asia",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2JQNGdwc2NDWEJ2N1NHdjlYWVA5YWxYX3J4WUcxMDBLWHIzNU9YN2xtSWpSSjYzd1BWRE1ETV80WWxBSjZjMlVpUi1vcXk0VEhfdmRiUVMyVll3ZUVMOThGbVBpWTdQVTVncGxBd0ZlOUs2Y3hIbWZvN3JTNThnRUVITEJZTGFu?oc=5",
-      "source": "IT Brief Asia",
-      "published": "2026-11-13T09:30:00+00:00"
-    },
-    {
-      "title": "Researchers Propose Enforceable Governance Frameworks for Autonomous Agentic Genomic Systems - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0hQRmI5bks2M3FrR21hQ3FVSlQ4N3V0dzJGSHllZW1IRkZOQm5UVU91OHlac3lyem5YY3VJZXhOMGJQblN4Uk16bzJVVUs4Z0VtRVpHTjhJQW00REFsSEZaVGF3ek5TdHlFRmJCOVJWdTZVZE05a2lTNkhCNndSZXFVdElrcE44cGJyU2xDd0xnQlViMUFZcUx2NU9GUFZPdGt6VXAyYnExdDF2ZnZUV3h6bEIxemFU?oc=5",
-      "source": "Bioengineer.org",
-      "published": "2026-11-13T10:40:24+00:00"
-    },
-    {
-      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-13T09:01:00+00:00"
+      "published": "2026-11-13T11:04:26+00:00"
     },
     {
       "title": "When AI agents go rogue, who can Hong Kong hold accountable? - South China Morning Post",
@@ -34,16 +28,16 @@
       "published": "2026-11-12T01:30:13+00:00"
     },
     {
-      "title": "What the OpenAI Incident Reveals About the U.S. 'Frontier' Model and China’s Open-Weight Alternative - Monthly Review",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU19NTUJIdFFWU0ZKOEhtVTZUZTNEVGtLUW1vZUZxYmRybnZqQnlEN2FpTV81YWk3SXozdVVtS2hkVFRGV2poUm9MV3VxN1FXV0JDakwxR2U0VHBCWVJ4WUVuVFNsZ19PMzQ0Q2J5SmMtOWpMMEdjNmZud1JGaVJ1b1FLdElQQlhlby1fQkM3WGpyUjIta0ZhRjVMeUFhUmhjeWRuWlRkajMyTkQ5WE15aDhRUnE3azlSNGZqVDJkU0NzbFFYeUg3Sw?oc=5",
-      "source": "Monthly Review",
-      "published": "2026-11-13T02:32:08+00:00"
-    },
-    {
       "title": "What does the future of post-trade look like in the age of AI? - flow – Deutsche Bank",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjh0UTlMcVFRU2NsOFQ2TmE1Y1pxLTczUTktUThHQmFEaWdRYk9yaHR1WGpQTjVWNVFHbm1lelFRX1JwMDFsYVJMdWZMandabEYyaUFfdTZlenE0RWVQbUtBaGZEOUZOYURKMTdtN0tTYXdkVktQUTZOVV9MSjlocEFFZFNDaEF1REFaWXBNVk5QUzYzUTcwM0hjWHJmQnpPU3VDLW8ybzJTc3pfR2I3VjF3SEI1UQ?oc=5",
       "source": "flow – Deutsche Bank",
       "published": "2026-11-11T20:05:26+00:00"
+    },
+    {
+      "title": "2027 Banking and Capital Markets Outlook - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMXJ6LXdSdVFkOGFjTWtGRHFRZFdMZUh0Qnd5ZWhkaGRtc2RSbnRoYXJPdmRDNFc4WkhmVGtmeFJDbmQ4andYNDRoTS1UNWV2YUg5a2pCY0N2V2c5Vkd3aEtSR1BGcTAtS0lncGZnNFd0STFJa18tZWVVZ0JRZmhIOXNocGVSa240bVlsdWhPTEJXMkxJZW9iSkc4SmJVOVlnTGFhRU16dENLaFRzc21IaWNnX0VrNER1TTA5Rko2Q2Foek5MMExBdDRwanpOQlE?oc=5",
+      "source": "Deloitte",
+      "published": "2026-11-12T08:00:00+00:00"
     },
     {
       "title": "United Airlines Bans AI Bots From Booking Flights Under New Rules - Law Commentary",
@@ -58,28 +52,40 @@
       "published": "2026-11-12T08:14:07+00:00"
     },
     {
+      "title": "What the OpenAI Incident Reveals About the U.S. 'Frontier' Model and China’s Open-Weight Alternative - Monthly Review",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU19NTUJIdFFWU0ZKOEhtVTZUZTNEVGtLUW1vZUZxYmRybnZqQnlEN2FpTV81YWk3SXozdVVtS2hkVFRGV2poUm9MV3VxN1FXV0JDakwxR2U0VHBCWVJ4WUVuVFNsZ19PMzQ0Q2J5SmMtOWpMMEdjNmZud1JGaVJ1b1FLdElQQlhlby1fQkM3WGpyUjIta0ZhRjVMeUFhUmhjeWRuWlRkajMyTkQ5WE15aDhRUnE3azlSNGZqVDJkU0NzbFFYeUg3Sw?oc=5",
+      "source": "Monthly Review",
+      "published": "2026-11-13T02:32:08+00:00"
+    },
+    {
+      "title": "Researchers Propose Enforceable Governance Frameworks for Autonomous Agentic Genomic Systems - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0hQRmI5bks2M3FrR21hQ3FVSlQ4N3V0dzJGSHllZW1IRkZOQm5UVU91OHlac3lyem5YY3VJZXhOMGJQblN4Uk16bzJVVUs4Z0VtRVpHTjhJQW00REFsSEZaVGF3ek5TdHlFRmJCOVJWdTZVZE05a2lTNkhCNndSZXFVdElrcE44cGJyU2xDd0xnQlViMUFZcUx2NU9GUFZPdGt6VXAyYnExdDF2ZnZUV3h6bEIxemFU?oc=5",
+      "source": "Bioengineer.org",
+      "published": "2026-11-13T10:40:24+00:00"
+    },
+    {
+      "title": "Thomson Reuters taps CUBE for legal AI regulatory data - IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdnZXNUlTWDI3dlpzOXR5SlAxU3FKbF9fajZuU19xNWVzd0dVRkVHTDd5VzdCN2RkY3FvTUc0SE9ESVlyU3k5VVRmRC15YngxVUJoRXdWTXVmOF92UmY1M0NLdW80U0dIYVl0ZnZvdkpxSmNPTWxQMTZtc1BRU3ZsZjZ5cDhzSWt4ZWc?oc=5",
+      "source": "IT Brief UK",
+      "published": "2026-11-13T09:30:00+00:00"
+    },
+    {
       "title": "Norwegian regulator raises risk management concerns over AI use at Yggdrasil - Offshore Magazine",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNUTAwNUhWMEoxVjE4T1ptWnhLTWVZU1VuVzV4QWtoSmRvVk5hQ05FRWlJZ1o2NUpNYVRuRE5TdW9zSC1pQ284YWtROFNZNnl3Umk4Zk5BRXRHTmJDMWdETktDOFJOaVY3SXNrVFVpMmRnVmVMUnZqRnpjZ3gwVURoM25MbmZqellqUVptZF96M0U3S1MxSzNMZWVXNWJiNlMzd0JCblpyVEV4Q0F4STF5cXBoT3V2cl85dzMyejNoVjlLMTc4QmdibWpkVGthWUIxbmxBdUR6OXk0VENUajFfRGJtWDhQemJReHUtek1mVEhVLXZtWEo5UENNSTBmSUFaRHZEME5rY2VObHpNekEydmFhbDg?oc=5",
       "source": "Offshore Magazine",
       "published": "2026-11-12T01:07:54+00:00"
     },
     {
+      "title": "SMX Bridges AI and Industrial Material Science With New Intelligence Platform - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmNrWGp4WnZGeVNkV1p3dU5pMGcyTldZNC1zZmxKOGpoR1pPcWRxNTZhTWc4OW9WbVg2YnM1c2NwWUZ3c0FCMUJPSVNGaUQ2dEp0X0J4MXdaUDFleW93M0JPZUp5Q1VPUV9yTEIzLTBGdWFZNkttVlhaYTI1aUJkTkktMU5YMlk1TTZ5TzBFQWNEVFBNaW1QUWZMdVVsTXo3dzJDS0JIUTh4OG1ibHg0Vm50R0lPc2tncHdPMHVpZFZUanpTTkF3QmJJOA?oc=5",
+      "source": "USA Today",
+      "published": "2026-11-12T13:48:55+00:00"
+    },
+    {
       "title": "Unemployment Labs Reports Blackwell Patterns in Chinese AI Models - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2UyRjdtVHkwUDRYSGY3NDJxY0U2Nk80Nm5oaE53RUJzV2xZOFM2aWlnWWx0LXhlWG5VU0NmX1hWMTlyOF84amJYREFkd0k4a3VYdzA2WnJZMzZXeEFrSnI2UFhsSVJxakhPNFRIWDlCWElpWnkybWJFSDZfWDFEXzZobU1GWEFIcjMxWnBUb1g?oc=5",
       "source": "Unite.AI",
       "published": "2026-11-12T22:53:03+00:00"
-    },
-    {
-      "title": "AI In Pharmacovigilance Software Market (2027 - 2035) - Grand View Research",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWRkLTBqSFlfSG9FTDlDclJwY3hPbmhlYThLWnVUc3BzXzJ4cS1NOFVYTTZyLUhYeDZXVkwzQUFZMktwOE9QTVpFUFF3Yi1XVXczVmthQ1JWM2hyR0EzcHJabmNSeXY1RExCLThHMW9vVEVhMmVmZ0hQMzBzdEJlY0xCanNHUVJnaXRjWWkxS0hXZzNhNklLX3JBMA?oc=5",
-      "source": "Grand View Research",
-      "published": "2026-11-12T10:07:40+00:00"
-    },
-    {
-      "title": "Australia to impose precautionary regulations on AI firms - سانا",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sVHpfRzh1Y2N5T0phcDEzbjJneGdvUEJoeDhDck9GT0dhLS14YlNwU1JON3NfLTVGS1J3c3NXSzNjSjI5dHJPaHR1ZFJXTnBaeXlB?oc=5",
-      "source": "سانا",
-      "published": "2026-11-10T18:40:00+00:00"
     },
     {
       "title": "KBRA Releases Research – Beyond the AI Hype: What It Means for Insurer Credit - Business Wire",
@@ -94,22 +100,16 @@
       "published": "2026-11-13T10:45:00+00:00"
     },
     {
-      "title": "Should Multiple AI Agents Collaborate Under Governance, Auditability, and Regulatory Constraints in a Global Financial Institution? – Communications of the ACM - Communications of the ACM",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZG5WNWFQem5XUktlZTRST0ZlaE5FbUNmd212ZDdtYU1KZ25feF9GT2RZZmlrWFp1X2ZtQnNSM3FCVmVpaXFfcG5Jbi05Y0w5eFU2d2J2U3UzY1Y2T3kteDRLd2RHY3lPZTBkQWFSSlBNNkRnSnQtemZuNjhfcnR5OFpNck0zd3dVSC1kU0tnZzZxSXhrOGZ3ekNpbFlwbUdLZVdib29GMXJ1WVVhZXBwZDZYVnJPQVpXUDduTFVMT3FoWk9aeHlvSC16NTdRVFNLaGdFV0EwQVc1dzFNYjAtNEViOXhPUDdyZml1QUVjbV8?oc=5",
-      "source": "Communications of the ACM",
-      "published": "2026-11-13T16:12:50+00:00"
+      "title": "The New Congress Has a Unique Opportunity for a Sensible Approach to AI Policy - Cato Institute",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3FTZHlYOGV1dmJtbU5uNENSN3YybDV3bENYdmREMkQ5U0M0WG5oMlRxaUt2RjZSbmpla1p6akYxSHh2dXM5dUhQRVcwSEdEZEh2YzBYS21HYnRkd2pwanZnRFo2VlFEQmJ1V1ZPc09BMUUtTWgtQ1Vaa0oxMzhQWkVqSUZMdUN1aUJFOWJ1NmZkWFU?oc=5",
+      "source": "Cato Institute",
+      "published": "2026-11-13T20:52:04+00:00"
     },
     {
-      "title": "Financial Services Must Re-Examine Their Agentic AI Security - BizTech Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZkthbjBabmw5NkdrZXpxTUw3Q2NicHN4N085MlhzOVotUGljRC1WOURTa0x5d3YyWHUwNEw3SUZfNUVFanY2YldZb05oeE96REMwUmNWaERJV0xRczhualVtc0lnb29FTW1pLVRGN0JSSnNRY3pBamZSUG9qcXFQcm1VTkxJQ2t6dGttWnNNa3VsTk5Odi1SaHItQl8zUWJYZ2EtREdYbVh0b3Jr?oc=5",
-      "source": "BizTech Magazine",
-      "published": "2026-11-10T22:36:17+00:00"
-    },
-    {
-      "title": "Detecting sleeper agents hiding in AI model neurons - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHZpdjIteTl2WXJDSmFxeWE3cFZUS0N1Tlh3UXZQaU9DVnpLT2JrTGthcVR6UkItYmdYUExoSTByY1hJMTBDb0lBMlM2Tkp5Vms1bmxhVEJwZHQ0SUg3akFnRHlEcU5ESy1qdnpmalJCWGtPU19fa1A3TExiRE9rNXNiMlY0blJxdWhXaHdXZWZXZURuZ3RfdHZTRDFvV2ZwYmpvNG9ZVnE1SWxaUFE?oc=5",
-      "source": "Microsoft",
-      "published": "2026-11-10T23:00:00+00:00"
+      "title": "Experts: Specialized AI has great potential for regulatory, needs SME oversight - RAPS",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzJHVmtKeFI0WjZiZmQzdGdGaDNVTk4tOFhYekpjOURWUWJtd1VXQ2J3Wk1wUFF2djJTWk5NTk5XazR0cnUtbjZhWWgzZGVpS1ctSUVzclF6RlE3eVo1MnBPcG1OR0FaeVhjZWc0YzJSdy0yOTc4VTh3YVhPOFJPN2ZFVVlrT1dRd2FJOE93azMteFBYRlBLTnowQWF4Y0dyUWtKcnN3Zzd4OXBQTWF2cnBR?oc=5",
+      "source": "RAPS",
+      "published": "2026-11-12T20:35:00+00:00"
     }
   ]
 }
