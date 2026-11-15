@@ -75,15 +75,17 @@
     },
     {
       "id": "ainet-20261113-desk",
-      "title": "AI agents: Day 3 review due",
-      "category": "AGENT SAFETY / DAY 3",
+      "title": "U.S. AI Task Force Reportedly Discusses AI Cyber Incidents",
+      "category": "POLICY / AI CYBER INCIDENTS",
       "date": "2026-11-13",
       "edition_date": "2026-11-13",
       "source": "www.reuters.com",
       "url": "https://www.reuters.com/world/us/trumps-ai-task-force-met-thursday-discussed-ai-powered-cyberattacks-2026-11-13/",
-      "body": "What changed: US officials reportedly discussed AI cyber incident reporting and national standards. Status: Reported policy discussion, not independently reproduced boundary failure. Why watch: reproducible permission and network boundary tests, independent evaluations and mitigation evidence. Correction: discussions are not enacted rules.",
-      "status": "Reported",
-      "byline": "UI News Desk"
+      "body": "What changed: U.S. officials reportedly discussed AI cyber-incident reporting and national standards. Status: Reported policy discussion, not an independently reproduced agent-boundary failure. Why watch: Look for documented proposals, implementation details and reproducible tests of agent permissions and network boundaries.",
+      "status": "Reported policy discussion, not an independently reproduced agent-boundary failure.",
+      "byline": "UI News Desk",
+      "what_changed": "U.S. officials reportedly discussed AI cyber-incident reporting and national standards.",
+      "why_watch": "Look for documented proposals, implementation details and reproducible tests of agent permissions and network boundaries."
     },
     {
       "id": "ai-20261113-google-capex-thompson-center",
