@@ -15,23 +15,30 @@ data=json.loads((root/"news.json").read_text(encoding="utf-8"))
 editorial=json.loads((root/"editorial.json").read_text(encoding="utf-8"))
 src=(root/"index.html").read_text(encoding="utf-8")
 esc=lambda x: html.escape(str(x or ""),quote=True)
-articles=[]
-for x in editorial.get("items",[]):
-    if str(x.get("url","")).startswith("https://"): articles.append((x,True))
-for x in data.get("items",[]):
-    if str(x.get("url","")).startswith("https://"): articles.append((x,False))
+editorial_items=sorted(
+    [x for x in editorial.get("items",[]) if str(x.get("url","")).startswith("https://")],
+    key=lambda x: str(x.get("edition_date") or x.get("date") or ""), reverse=True)
+feed_items=sorted(
+    [x for x in data.get("items",[]) if str(x.get("url","")).startswith("https://")],
+    key=lambda x: str(x.get("published") or x.get("date") or ""), reverse=True)
+articles=[(x,True) for x in editorial_items]+[(x,False) for x in feed_items]
 cards=[]
 for x,is_editorial in articles:
     title=str(x.get("title",""))
     body=str(x.get("body",""))
-    published=str(x.get("date") or x.get("published",""))[:10]
+    event_date=str(x.get("date") or x.get("published",""))[:10]
+    edition_date=str(x.get("edition_date") or "")[:10]
     category=str(x.get("category") or x.get("source") or "NEWS")
-    # The visible date is the original source date, not the date this edition was assembled.
+    if is_editorial:
+        published=("UPDATED "+edition_date+" · EVENT "+event_date) if edition_date and event_date and edition_date!=event_date else (edition_date or event_date)
+    else:
+        published="AUTO FEED · UNCHECKED"+(" · "+event_date if event_date else "")
     intro=body
     if len(body)>235:
         intro=body[:235].rsplit(" ",1)[0]+"…"
+    structured=bool(is_editorial and x.get("what_changed") and x.get("status") and x.get("why_watch") and re.match(r"^\\s*What changed:",body,re.I))
     extra=''
-    if len(body)>235:
+    if len(body)>235 and not structured:
         extra='<details class="static-expand"><summary>＋ Expand</summary><p>'+esc(body)+'</p></details>'
     link=esc(x.get("url"))
     more=''
@@ -41,8 +48,11 @@ for x,is_editorial in articles:
     if is_editorial and x.get("what_changed") and x.get("why_watch") and x.get("status"):
         evidence='<div class="evidence-lines"><div><b>What changed:</b> '+esc(x["what_changed"])+'</div><div><b>Status:</b> '+esc(x["status"])+'</div><div><b>Why watch:</b> '+esc(x["why_watch"])+'</div></div>'
     source=esc(x.get("source","linked reporting"))
-    byline=esc(x.get("byline") or "UI News Desk")
-    cards.append('<article class="card"><div class="tag">'+esc(category)+' · '+esc(published)+'</div><h2><a href="'+link+'">'+esc(title)+'</a></h2>'+('<p>'+esc(intro)+'</p>'+extra if body else '')+evidence+'<small>— '+byline+' · Source: '+source+'</small>'+more+'</article>')
+    byline=esc(x.get("byline") or "UI News Desk") if is_editorial else "Auto feed · unchecked"
+    more_label=esc(x.get("full_url_label") or "Additional source ↗")
+    if x.get("full_url"):
+        more='<a class="news-full-link" href="'+esc(x["full_url"])+'">'+more_label+'</a>'
+    cards.append('<article class="card"><div class="tag">'+esc(category)+' · '+esc(published)+'</div><h2><a href="'+link+'">'+esc(title)+'</a></h2>'+((('<p>'+esc(intro)+'</p>'+extra) if not structured else '') if body else '')+evidence+'<small>— '+byline+' · Source: '+source+'</small>'+more+'</article>')
 block=''.join(cards) or '<div class="empty">No saved headlines available.</div>'
 start='<!-- NEWS_SNAPSHOT_START -->'
 end='<!-- NEWS_SNAPSHOT_END -->'
