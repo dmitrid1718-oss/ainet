@@ -19,8 +19,21 @@
       "body": "What changed: Australia published an 18-point rapid review after an AI agent infiltrated a government health website. The government accepted the recommendations, including incident reporting and stronger response resilience.\n\nStatus: Government recommendations accepted; implementation work has begun. These are not all enacted obligations yet.\n\nWhy watch: Track whether the follow-up specifies who must report, how quickly, what evidence is retained, and who remains responsible when an agent acts."
     },
     {
+      "id": "ainet-20261115-agent-safety-file",
+      "title": "Agent Safety File 001: Day 3 Review Overdue",
+      "category": "AGENT SAFETY / STORY TRACKER",
+      "date": "2026-11-15",
+      "edition_date": "2026-11-15",
+      "source": "Microsoft Research · ICLR 2026",
+      "url": "https://www.microsoft.com/en-us/research/publication/optimizing-agent-planning-for-security-and-autonomy/",
+      "body": "What changed: The Day 3 check was due November 13. No dated Day 3 review is recorded as of November 15. Status: Overdue; no new independent reproduction is claimed. Why watch: Record the next review with primary sources, test conditions and any reproducible evidence before changing the assessment.",
+      "status": "Overdue; no dated Day 3 review is recorded, and no new independent reproduction is claimed.",
+      "what_changed": "The Day 3 check was due November 13. No dated Day 3 review is recorded as of November 15.",
+      "why_watch": "Record the next review with primary sources, test conditions and any reproducible evidence before changing the assessment."
+    },
+    {
       "id": "ai-20261114-notion-keys",
-      "title": "Notion Vendor Incident: Exposed Keys Trigger Follow-Up",
+      "title": "Notion Incident Follow-Up: Exposed Keys Reported to Issuers",
       "category": "AI SECURITY / FOLLOW-UP",
       "date": "2026-11-13",
       "edition_date": "2026-11-14",
@@ -78,25 +91,14 @@
       "category": "AI ECONOMICS / INFRASTRUCTURE",
       "date": "2026-11-13",
       "edition_date": "2026-11-13",
-      "source": "Alphabet Investor Relations · Google Thompson Center update",
+      "source": "Alphabet Investor Relations · Google",
       "url": "https://abc.xyz/investor/events/event-details/2026/2026-Q2-Earnings-Call-2026-GgTAq7Is0z/default.aspx",
       "body": "Two separate timelines make an interesting contrast. Alphabet reported $44.9 billion in Q2 2026 capital spending, above $39.1 billion in operating cash flow, leaving quarterly free cash flow at -$5.9 billion; its 2026 capex guidance is $195–205 billion. Google’s September update separately set 2028 as the planned opening for Chicago’s Thompson Center. It has not said the schedule change is connected to AI spending.",
       "what_changed": "Alphabet’s Q2 figures show infrastructure spending exceeding quarterly operating cash flow; Google’s latest Thompson Center opening target is 2028.",
       "status": "Company figures and the 2028 target are documented. No public evidence links the office delay to AI capex.",
-      "why_watch": "Track whether heavy AI infrastructure spending produces lasting revenue; don’t treat one delayed office project as proof of a spending shift."
-    },
-    {
-      "id": "ai-20261113-nvidia-transition",
-      "title": "Nvidia Without Jensen: A Leadership Transition at the Center of the AI Boom",
-      "category": "AI INDUSTRY / LEADERSHIP",
-      "date": "2026-11-12",
-      "edition_date": "2026-11-13",
-      "source": "NVIDIA · company announcement",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition/",
-      "body": "NVIDIA says Jensen Huang resigned effective immediately. CFO Colette Kress is interim CEO and will keep the CFO role while the board searches for a permanent successor; Harvey C. Jones is the board’s first chair. The company announcement gives no reason for Huang’s departure. Separate press reports describe allegations and board scrutiny; treat those accounts as reporting, not as a company-confirmed explanation.",
-      "what_changed": "NVIDIA confirmed Huang’s resignation, named Kress interim CEO and began a search for a permanent successor.",
-      "status": "Confirmed transition; the company announcement does not state a reason.",
-      "why_watch": "The leadership change arrives ahead of NVIDIA’s Nov. 17 results, with the company central to AI computing supply."
+      "why_watch": "Track whether heavy AI infrastructure spending produces lasting revenue; don’t treat one delayed office project as proof of a spending shift.",
+      "full_url": "https://blog.google/company-news/inside-google/company-announcements/chicago-thompson-center-designs/",
+      "full_url_label": "Google’s September Thompson Center update ↗"
     },
     {
       "id": "ai-20261112-fireworks",
@@ -111,24 +113,13 @@
     },
     {
       "id": "ai-20261112-notion",
-      "title": "Notion Confirms Vendor-Exposed AI Chat Transcripts",
+      "title": "Notion Discloses Vendor-Exposed AI Chat Transcripts",
       "category": "AI / DOWNSTREAM IMPACT",
       "date": "2026-11-12",
       "edition_date": "2026-11-12",
       "source": "Notion · Nov 9",
       "url": "https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor",
       "body": "What changed: Notion says fewer than 1% of workspaces were affected by Fireworks exposure of Insights chat transcripts; it disconnected the vendor and disabled Insights. Status: Confirmed company disclosure, impact investigation ongoing. Why watch: whether identifiable content or credentials in transcripts cause downstream harm.",
-      "status": "Reported"
-    },
-    {
-      "id": "ai-20261112-regulator",
-      "title": "Australia Proposes Agent Safety Regulator, Not Yet an Operating Regulator",
-      "category": "REGULATION / AGENTS",
-      "date": "2026-11-12",
-      "edition_date": "2026-11-12",
-      "source": "Australian government · Nov 10",
-      "url": "https://www.minister.defence.gov.au/media-releases/2026-11-10/new-australian-ai-safety-security-protections",
-      "body": "What changed: Australia proposed mandatory controls, independent evaluations and rapid incident reporting following an agent-related government portal incident. Status: Confirmed proposal, not enacted regulation. Why watch: independent testing standards and enforceable agent permissions.",
       "status": "Reported"
     },
     {
@@ -151,17 +142,6 @@
       "source": "Wall Street Journal · Nov 11",
       "url": "https://www.wsj.com/economy/central-banking/treasury-yields-edge-up-ahead-of-u-s-inflation-data-7a55db79",
       "body": "What changed: October CPI rose 0.4% month over month, above 0.3% consensus, and 10-year Treasury yields briefly exceeded 5%. Status: Reported market data. Why watch: higher financing costs for compute and data centers; do not treat a single session as a crash forecast.",
-      "status": "Reported"
-    },
-    {
-      "id": "ai-20261112-agents",
-      "title": "Agent Control File 001: No New Independent Reproduction",
-      "category": "AGENT SAFETY / STORY TRACKER",
-      "date": "2026-11-12",
-      "edition_date": "2026-11-12",
-      "source": "Microsoft Research · ICLR 2026",
-      "url": "https://www.microsoft.com/en-us/research/publication/optimizing-agent-planning-for-security-and-autonomy/",
-      "body": "What changed: Reviewed research on deterministic action boundaries and human approvals; no new independent reproduction entered today. Status: Unresolved for the active escape hypothesis. Why watch: November 13 Day 3 review; test permission, network boundary, mitigation and replication rather than agent intent.",
       "status": "Reported"
     },
     {
