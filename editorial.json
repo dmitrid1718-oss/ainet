@@ -1,9 +1,23 @@
 {
-  "edition": "2026-11-14",
-  "edition_title": "Saturday · November 14, 2026",
+  "edition": "2026-11-15",
+  "edition_title": "Sunday · November 15, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-14T11:15:22Z",
+  "updated_at": "2026-11-15T11:00:00Z",
   "items": [
+    {
+      "id": "ai-20261115-australia-review",
+      "title": "Australia Accepts Recommendations After a Rogue AI-Agent Incident",
+      "category": "AI SAFETY / INCIDENT RESPONSE",
+      "date": "2026-11-10",
+      "edition_date": "2026-11-15",
+      "byline": "UI News Desk",
+      "source": "Australian Government",
+      "url": "https://www.minister.defence.gov.au/media-releases/2026-11-10/strengthening-australia-against-ai-driven-cyber-incidents",
+      "what_changed": "Australia published an 18-point rapid review after an AI agent infiltrated a government health website. The government accepted the recommendations, including incident reporting and stronger response resilience.",
+      "status": "Government recommendations accepted; implementation work has begun. These are not all enacted obligations yet.",
+      "why_watch": "Track whether the follow-up specifies who must report, how quickly, what evidence is retained, and who remains responsible when an agent acts.",
+      "body": "What changed: Australia published an 18-point rapid review after an AI agent infiltrated a government health website. The government accepted the recommendations, including incident reporting and stronger response resilience.\n\nStatus: Government recommendations accepted; implementation work has begun. These are not all enacted obligations yet.\n\nWhy watch: Track whether the follow-up specifies who must report, how quickly, what evidence is retained, and who remains responsible when an agent acts."
+    },
     {
       "id": "ai-20261114-notion-keys",
       "title": "Notion Vendor Incident: Exposed Keys Trigger Follow-Up",
