@@ -1,8 +1,44 @@
 {
-  "updated_at": "2026-11-15T17:18:19.716736+00:00",
+  "updated_at": "2026-11-16T20:35:51.076198+00:00",
   "feed": "Google News RSS",
   "query": "artificial intelligence AI models agents research industry regulation",
   "items": [
+    {
+      "title": "BIS Releases Rule Targeting Remote Access to Advanced AI Chips - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMldEN0JvMVM3Z2tJQTlFNC02Zmo0clc5X0pSc2pVTTQ1SC1BV3pzOU53RW41MlJFaVlRak1BNkd0eVcxcmdVY3JQR2o1ekllYlZNQlRFVXZQZVpPSkhud0FqZWZ2MDVxNmpqVUE1MkxmMV8yaTdBVWlvX2dqRFRaMVFZY0x3bDctMUg4TQ?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-16T15:26:02+00:00"
+    },
+    {
+      "title": "California Insurance AI Survey & Public Workshop - CASRAI",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNVp5M3h6aTFiOW9PMVJibTRiZ1dFNDg5aVdEbnFSOTZZcXZ0T3J4T1ZyNUtKOS1nUnh6cVF0c3A2NUpjWEJaMXNlSWtYRGwwRlRlVkF1X09IaXM4RGRmb1p2N3g3LUwtSGVHaTQ5T1pNR3FubGE1d0JFNkRuWXJmWm0xYw?oc=5",
+      "source": "CASRAI",
+      "published": "2026-11-16T13:53:40+00:00"
+    },
+    {
+      "title": "When agents clash: Stopping algorithmic civil war on the plant floor - Smart Industry",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZmFBNkJyUjl0TFdlVks1NjlOLUFQR2tIMlRySlRGT0RGQWd1d3BOSmpCZzliNHFESHBYNU1kSmpqY283MExGLTBMQWFZWE15NlpyV29QZzFRNmRqM0l2am9PWHVqbHBwUUUxUGZ2YnJBb0RudzdQbC1MZ2tzYzFYazJGMGJsUkNWSlpNVXcxVlpjYXN2NHBucUdwRThrRkpXWGcxSlNlQzRaN1hVbWdjQzhzSVVCc2ZSajZMSDlYQm04ZlI1cXZvSXd3MXYtcW0zZXRlemMxcTltM3ZaTThkdlVOaC1DMHdUZDZGUmdUMmQ2MFNmU1N3?oc=5",
+      "source": "Smart Industry",
+      "published": "2026-11-16T12:35:14+00:00"
+    },
+    {
+      "title": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies - KFGO",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXUyejFyZTRDemZvWS1BVHNhRFFfQmx2RHAwamJWTEdUQ1lTMERqdzBFcGtZcVhhb1JyQ1RGRnhGdEFpYW5TRW9ua2hjWkN2RDM5Nm1kOTVrOGxqdUlqdzFTLTQzcmllZDdXaWRTSE8taHR1TUNKR20yOU1EWFBtT285M01Wd0hEdGo0ekFmbkN2RV85UmJFWmNrZTRDdmJOQjJocmJYempaZ0pLb2JMdg?oc=5",
+      "source": "KFGO",
+      "published": "2026-11-16T19:04:49+00:00"
+    },
+    {
+      "title": "Will Anthropic's IPO lead to better AI regulation? - The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNTJWdG56cEJKTi1QWHZHR3FYNmJ0NmIxNnRkWm10QWt2X0hDYlg0dUR4bFlMRDdBTmR3SHN0RzVpNkQxZzV6WkNfUTFtVS01R3FfTzlJRmNtZzlwS2dkOTIwUTlOVVd2Y1JETFpOeC1iT1JhZjVhakJvZ0c2aTNYMkVkZmRVV1F0OGRCSnBfZk9wVlpIWmpKNGFjOW52ZFXSAZ8BQVVfeXFMTTUyVnRuenBCSk4tUFh2R0dxWDZidDZiMTZ0ZFptdEFrdl9IQ2JYNHVEeGxZTEQ3QU5kd0hzdEc1aTZEMWc1elpDX1ExbVUtNUdxX085SUZjbWc5cEtnZDkyMFE5TlVXdmNSRExaTngtYk9SYWY1YWpCb2dHNmkzWDJFZGZkVVdRdDhkQkpwX2ZPcFZaSFpqSjRhYzludmRV?oc=5",
+      "source": "The Korea Times",
+      "published": "2026-11-16T05:00:03+00:00"
+    },
+    {
+      "title": "SMX Puts American Innovation to Work in the New Era of Artificial Intelligence - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ3BMMGZDc3ZSbGNPc2E1aUoyZGx5blVFNUlIVDdEa3BldWpsVFJJOTNtUVlpOGNjanVvQlpZTmtpcUY0T3JMUmVOLVJZbUdiSk0wUS1FdVBkdUY4bmxzUlYwdGpIOTd1dFJLZHVDa3F2X3R0aV9Tb2xTaTJDeXVERUlid0JDZWJaQXBYRzhZWmpWYUxTeWxkUWJ3LVZjS1lZeEtBYjFYSG5FU3FxSUd5aW5idFNBRUNBYjBVRTNiN0tvalhJdGhyVTd3cVRWYWhqcXFhQg?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-16T17:30:00+00:00"
+    },
     {
       "title": "Peñalver, GU Technology Researchers Champion AI Regulation - The Hoya",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0dNT3J5NVdVcGVCUWpIcTlQLTFOazhzUDNpeDlpMk1BYzBLOEZERXd2aHJSTU90Q1ludE44YTV6RVhXekE4aFh4TTJERHo2a29KTURnblIyOURYbXBXNUlGVEY3VzBreTREUDQ0YjVodmZBeEhFaGFxd0Zzd1l1amc4R2dfMFhFeDhr?oc=5",
@@ -10,10 +46,10 @@
       "published": "2026-11-14T22:27:58+00:00"
     },
     {
-      "title": "Jews are having the wrong conversation about artificial intelligence - eJewishPhilanthropy",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDNyM0RKUDlOaHMzUlNTZzVRUkZfN195Q1d0NjkwVVA0WXRzaUNQcTU4eERrNDVEVGhVdlpZcVRaQXFZYXYzQVFQeFhhY1FUallhdHphb2EyNlh3bTFYaDQwNEktZjc5UHJfVjV0eDJlbTBXM3lHLVpFYU5oeGdiREJWTnlqRlRCaFZaR2YzZ0dTRVlVdWtnUXBpVnc5N1R3TWpR?oc=5",
-      "source": "eJewishPhilanthropy",
-      "published": "2026-11-13T10:45:00+00:00"
+      "title": "Machine Learning Drones Advance Predictive Surface Quality Management in Industry - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTy1PM1Bzb0QxX3BOeE1iOHpqSV9UUndpVFFuenJ4RWVtTnJrNHVpdExuMlBxY3ZMX3B5ekdTaHhPX3NTN3VEU05PQ00wUXlUZUcwU0pxY1Z0QnpfYkhpN1Jha3RKbEdyZElwMVk0YWY0ZnBXSzFPaU1BS0JTaWZWT1FyZ2ZUMWx4RnFRNkNfdkZNQVIwLUtpM0REZTBZSjNTR1R0ZmhiT3pvZw?oc=5",
+      "source": "Bioengineer.org",
+      "published": "2026-11-16T19:06:29+00:00"
     },
     {
       "title": "The New Congress Has a Unique Opportunity for a Sensible Approach to AI Policy - Cato Institute",
@@ -22,94 +58,46 @@
       "published": "2026-11-13T20:52:04+00:00"
     },
     {
-      "title": "Should Multiple AI Agents Collaborate Under Governance, Auditability, and Regulatory Constraints in a Global Financial Institution? - Communications of the ACM",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZG5WNWFQem5XUktlZTRST0ZlaE5FbUNmd212ZDdtYU1KZ25feF9GT2RZZmlrWFp1X2ZtQnNSM3FCVmVpaXFfcG5Jbi05Y0w5eFU2d2J2U3UzY1Y2T3kteDRLd2RHY3lPZTBkQWFSSlBNNkRnSnQtemZuNjhfcnR5OFpNck0zd3dVSC1kU0tnZzZxSXhrOGZ3ekNpbFlwbUdLZVdib29GMXJ1WVVhZXBwZDZYVnJPQVpXUDduTFVMT3FoWk9aeHlvSC16NTdRVFNLaGdFV0EwQVc1dzFNYjAtNEViOXhPUDdyZml1QUVjbV8?oc=5",
-      "source": "Communications of the ACM",
-      "published": "2026-11-13T16:12:50+00:00"
+      "title": "AI-BOMs: A Practical Guide to AI Bills of Materials - wiz.io",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PZ1k1WDRLQWYyUmg5R0xoUEpuZGwxTEVuN3Jrdi1GcXpNZUczMktoTk5yVFRLdlVIalpxdEJWSWp4X0thUDNUU0REZEFYdGtLSDgtYS1rREo1WW81MGx6SE1nSFZvU2V0bU9kcHVMdmxlR0JY?oc=5",
+      "source": "wiz.io",
+      "published": "2026-11-13T23:59:13+00:00"
     },
     {
-      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
-      "source": "Britannica",
-      "published": "2026-11-15T13:23:00+00:00"
+      "title": "California sues OpenAI, saying it failed to contain test models that broke into Hugging Face - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmFIQ21lOTVCMVFiMGd0MDB4SzRqTzBMbXBVZXpZdHhWUTdJcUFDRzNOQnVwcExlaHdYNlFUclAyRFcyVWZ3M3dTU2hvM1dBZFhPa3A1RGR0Y25VdE5vY2pvU3dueU9JLVJmT3BYYWV6NXZQVTVaSFdfd3laYWhlU195cTR5SllfWFVaM2FxZGpIRzJyTldYY29wa3kzcUp3eS1fYk1oOGRidEl0enpjZXZR?oc=5",
+      "source": "MLQ.ai",
+      "published": "2026-11-16T19:47:27+00:00"
     },
     {
-      "title": "MIT Researchers Create Roadmap to Help Organizations Mitigate AI Risks - HPCwire",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOG1MMzd3bVcwVi1Sd0hPQkpzOF9NcmQ2U2RZU3NsNnYtQUVjeG14OFJyNjZBaWJiZzlRQnNjUndxNWJ1U1FibS15cHNLakVUUTFfcnFlRDZsazdybDVBdVN1VW45VUVfWmNOOExtc3N2NjkyYzRmaWNPeHhGR0VVWjNxbDN1U2h6YjVGdTJhNjhOUVdPUWNvaGZVbjRFR3JVQUM2VDRRTUJLVEFkcXNla2Fsbw?oc=5",
-      "source": "HPCwire",
-      "published": "2026-11-14T02:11:28+00:00"
+      "title": "SMX Brings American Innovation to the Next Frontier of Artificial Intelligence - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMURtVFZRaDNENHRLMWtrblRucjl6VllPVTVWQkJnTUU5cG1VSW12WnJPZkZ1QXNfeUJCWTNubHNfenVXWmQ1VDNBSmxjemlraDRfZXFMT0NHMVFVaWZ0eVdFb0wwWGkxOEJ4LUx3djlSLXE3cGF2dllpcHBIY3NhRURHcDVDQml5Mkl1OFRrRnlJUGR3Rk1vQThhZDFfWXVJUGFITVhrcV9OMFhjMkVPbzRNbGNhS1dfa1pUUVpxYWM5aGhNSjIzVzEzYnVzS2Vhcl9xTg?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-16T16:00:00+00:00"
     },
     {
-      "title": "49th ASEAN Summit Puts AI Center Stage, 1 Pact to Sign - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWFjc0tGRkdVcGlPYktLYjRDX2wxbDJZdXgzQzBXcVZyOW84eFltWUhudUF5SFZHUDk5c2xHd0xUdlQxVmMyNk4tcUhfY1BsVzVzYVpoNGFQMkdwR0RyMloyYmVabTB1cTYwSGZmdlFqN05lRENQbExXaGhIeHZrUWpaYVVTbGdCNzBpSEI3V1hwRTBTVUZ4TUZ3?oc=5",
-      "source": "shattered.io",
-      "published": "2026-11-13T11:04:26+00:00"
+      "title": "SAS and Posit Integrate Tools for Auditable AI in Clinical Research - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEg4Snh0Q05tNTZreEZJTzFaQm94bE9yUHJrTFRXQW1rQ2FYZFVXTGRRN0tiNXU4dUhGTEVjS3NMM1ZSajFwVEEwYVdzX3dfMmphbzFzT2JEcW84LWs2SkdZSG90SDcwRllMVVNFSmJQbGtDdHU4bHhXOVk0X183UERtU0JBV2hHWjloWXpGY1JpZkU?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-16T08:22:02+00:00"
     },
     {
-      "title": "Thomson Reuters taps CUBE for legal AI regulatory data - IT Brief Asia",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2JQNGdwc2NDWEJ2N1NHdjlYWVA5YWxYX3J4WUcxMDBLWHIzNU9YN2xtSWpSSjYzd1BWRE1ETV80WWxBSjZjMlVpUi1vcXk0VEhfdmRiUVMyVll3ZUVMOThGbVBpWTdQVTVncGxBd0ZlOUs2Y3hIbWZvN3JTNThnRUVITEJZTGFu?oc=5",
-      "source": "IT Brief Asia",
-      "published": "2026-11-13T09:30:00+00:00"
+      "title": "ZENO LABS: Leo Cheng, John Paul, and Malcolm Tan Join Forces to Build a Global AI Intelligence Ecosystem - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbEhmRFlwQUVmMFNpMk9hU05BX1Z6STJvTHdoVy1DMUdjZGRRN0pJWmdqczVWZVdyYjA0QlZ1ZkltQXVTQmFxc2djLURKY2tnOS11Z0hibXZENWp4RExsSF9WTUo4WjR3bmx3S2lubHdTZHlwekZTNUlJQjR4MVJLVUVIRFdYZFFibmRNZ0ZENTNjNVNvY0tlS0tCQ2NFSlRkWW1HcGgtRHRVOEV5TDhyOXVwbER3MUN5QUFSdktzcUJleFpTcjBsR1VpaXptTTk2azNwVUpycG1PY1cyOUdqOWJSSE1pQ1ZfRm5zODVGeXJLdTdRTklRbA?oc=5",
+      "source": "FinancialContent",
+      "published": "2026-11-16T07:01:00+00:00"
     },
     {
-      "title": "NVIDIA Releases Nemotron-Personas-Finance-Japan Synthetic Dataset - CASRAI",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTlBSZHJ5VFJWSExBOVdrWGhNa2dIYkZKbTVDbmpsZEYzQzc4NjhpcWFJa3ZHRDNFMlF6bkszR1E2andQM3JaNmYxNksxVEkwTlRXT3dWTlFXc2dpZWV0UFVsMzV2NGVoZEtES1lFWVdNa0N0b1VxMnBYMFRjZUQyLQ?oc=5",
-      "source": "CASRAI",
-      "published": "2026-11-14T17:58:28+00:00"
+      "title": "AI Is Lowering the Cost of Managed It in India, and Opsio Says This Is Only the Start - Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXFZOVRFMHV3M2R2QnFoTTBvR2pkN053Qm9kQ3RFYko1NE8wQ3dfWERsczNKUGwwcDdXQ0VzV0Zrb1hSY01jUGQ0V0FLVHNybF9jYUdzRHlmdFNUZUxhTUFKT1I4RVpSbkNrbmdyOXVkX0QtWnVPVVY3TlFaaUpJYy1VdllVZkM0QlNMdFR1dWF0S19UM3BMcmhKcjRIbFdaSGEyOE5KQnpoV3F6Sk93RmZDVm1hUVVMQ0Z1MHZCcHAwd3k4Vm4wSXpR?oc=5",
+      "source": "Big News Network.com",
+      "published": "2026-11-16T13:19:00+00:00"
     },
     {
-      "title": "SMX Puts American Innovation to Work in the New Era of Artificial Intelligence - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcENnV2tJdzBBZG1Ed3BnRVFqQ1ltbG53enpSNHdhQVJObTh1bkY2NFVZZjZXbjMzMjJBRkxMN0ZBNmRaY3JTbWpiUGpoR0M0c3pjencxS1o0YzRkMGVGWmcxZmZMSkdpdExIZmRjUTltd1N4ZVN0ckNscU52UjlrdjhhOEZRZ0FGNEpOUkwwbG1wS3JlQVZRZUNHbDg1U1M2SFpVQXAwZzhkUUxrN216azBteVdJeFMzd18yNmlCbUVxVE5NOHFsUHZwS2p3d0E?oc=5",
-      "source": "The Detroit News",
-      "published": "2026-11-13T17:52:32+00:00"
-    },
-    {
-      "title": "What the OpenAI Incident Reveals About the U.S. 'Frontier' Model and China’s Open-Weight Alternative - Monthly Review",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU19NTUJIdFFWU0ZKOEhtVTZUZTNEVGtLUW1vZUZxYmRybnZqQnlEN2FpTV81YWk3SXozdVVtS2hkVFRGV2poUm9MV3VxN1FXV0JDakwxR2U0VHBCWVJ4WUVuVFNsZ19PMzQ0Q2J5SmMtOWpMMEdjNmZud1JGaVJ1b1FLdElQQlhlby1fQkM3WGpyUjIta0ZhRjVMeUFhUmhjeWRuWlRkajMyTkQ5WE15aDhRUnE3azlSNGZqVDJkU0NzbFFYeUg3Sw?oc=5",
-      "source": "Monthly Review",
-      "published": "2026-11-13T02:32:08+00:00"
-    },
-    {
-      "title": "AI Agent Ordering Sparks Debate: Taiwan's Non-Store Retailers Association Calls for Three Rules, Ministry of Digital Affairs Agrees to Study Risk Framework - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1MzU0ZmdTVlVFbWVuMGUydlNaUVduc25jSlFIQXVXYlBiZTgyVW5HRVhnNjNiMC1taTdueWVQZHc0cXhlMUxCWU9vYnd3RHJJY1Fmb1BLNWszdjdmazFGR0dHcDRvT01IUkFGUkdkcjhtZXMyNUE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-11-12T20:35:00+00:00"
-    },
-    {
-      "title": "Australia Announces Plan for AI Safety Regulator and Mandatory Frontier AI Rules - CASRAI",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xU0JEaWNGSkFoeHQzbW5Qa19lUmVMOGxUdkQ5QlhMam9Md0xBeTV6NGs0TjU4RTZGODg0YXJ2ZDd5dkVZbWg0el9kc1MzYWd3cjFJVU03U1V1UVRyNV9aUkpzWW1lcTJWMUozSEJNWWpkWE5SZjJodzhR?oc=5",
-      "source": "CASRAI",
-      "published": "2026-11-12T23:04:42+00:00"
-    },
-    {
-      "title": "Top 12 Cybersecurity Trends to Watch in 2027 - Simplilearn.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zX2Q1bWpUMkNRT3pwVUh5eC0waGZvTUVOclFOMHpHNl94dHRBekRESDhTX1BueDczRnk5LXVvZWNGbDZ1UjN2a0J4SkRwQmpsOGFqWXV3bVVUSjhGanhEYkFvV3dvYkx2N1hfRw?oc=5",
-      "source": "Simplilearn.com",
-      "published": "2026-11-13T08:00:00+00:00"
-    },
-    {
-      "title": "New York Launches AI Safety Center to Independently Test AI Models - Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUxJRlJwUThReUhGa1hWRDJPdUhrT1pKM19jVjRxT1R0d1RMZi1aT3FmMDVRRVZLUE4xUjN0S3puN2FFdU53ZVo5SDRscnoxdWhkZHppWXU0NVV3ZmF3LXJFNWVlUVlvUFNnaTB4cHJPd1g0Tl9vTDVhcE5QdnJKbmhKUjZyRXphY19CdUdR?oc=5",
-      "source": "Technology Org",
-      "published": "2026-11-15T07:39:00+00:00"
-    },
-    {
-      "title": "NJ lawmakers weigh AI regulations amid industry and safety expert clash - News From The States",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0JXdmxTWlMxQTB2U2J6WmR3UHl6Q3E1QlVWZ1NZanVQRXFCak5JYjVKWXRLSzd4X2xIcWE5X2puZ2dValhPbFRBb0pEY1Qwc2JlSW5LTEF2SWNrSHQyRHlzeEowblZYc3ZjcF83ZFd2al9odkh1RlEta3pHR2toTGhBWHUtZkpKcjk3ZWhOZXFYNEJkZTV5WWNwMlhSVzVCRE1fcUh4eTYwR3EzakhVRy1kcw?oc=5",
-      "source": "News From The States",
-      "published": "2026-11-13T08:00:00+00:00"
-    },
-    {
-      "title": "Experts: Specialized AI has great potential for regulatory, needs SME oversight - RAPS",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUzJHVmtKeFI0WjZiZmQzdGdGaDNVTk4tOFhYekpjOURWUWJtd1VXQ2J3Wk1wUFF2djJTWk5NTk5XazR0cnUtbjZhWWgzZGVpS1ctSUVzclF6RlE3eVo1MnBPcG1OR0FaeVhjZWc0YzJSdy0yOTc4VTh3YVhPOFJPN2ZFVVlrT1dRd2FJOE93azMteFBYRlBLTnowQWF4Y0dyUWtKcnN3Zzd4OXBQTWF2cnBR?oc=5",
-      "source": "RAPS",
-      "published": "2026-11-12T20:35:00+00:00"
-    },
-    {
-      "title": "Why Silicon Valley’s Knives Came Out for Anthropic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-13T15:09:04+00:00"
+      "title": "Column: What trustworthy AI investing should look like - Invezz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRXFmaDlJRm9ueFo5U0E4NzRsUmdrUWMtRXZRcWsxczlnNzhFLTk2cUpiSVdYM1RqZ1gzT1V2bm5wQ0VPSjRKM0o0NWUySXlrc2NRS1draE5rNzNzTlhDR3MyUm1laW1FWHRubWx6eVkxblBQb2xZaFFRNDgzYTJLbVMtcGU0enhYc01fLWVKNUttZ3M?oc=5",
+      "source": "Invezz",
+      "published": "2026-11-16T11:47:23+00:00"
     }
   ]
 }
