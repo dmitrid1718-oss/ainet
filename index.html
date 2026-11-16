@@ -155,7 +155,7 @@ function commentBox(postId){
   if(card){description=clean(card.querySelector('.evidence-lines > div,p')?.textContent);note='Source preview · click the headline to read';}
   else if(a.hash&&new URL(a.href).pathname===location.pathname){
    let target;try{target=document.getElementById(decodeURIComponent(a.hash.slice(1)))}catch{}
-   if(!target)return null;description=clean(target.querySelector('.first,.lead,p')?.textContent);note='Jump to this section';
+   if(!target)return null;description=clean((target.querySelector('.first')||target.querySelector('.lead')||target.querySelector('p:not(.eyebrow)'))?.textContent);description=description.replace(/^Do this first\s*/i,'');note='Jump to this section';
   }else if(a.closest('.stages,.doors')){description=clean(a.querySelector('p,small')?.textContent);label=clean(a.querySelector('h3,span')?.textContent);note='Open this guide';}
   else {
    const known={
@@ -169,7 +169,7 @@ function commentBox(postId){
  }
  function hide(){clearTimeout(timer);clearTimeout(closing);box.classList.remove('is-visible');box.setAttribute('aria-hidden','true');if(active){if(savedDescription===null)active.removeAttribute('aria-describedby');else active.setAttribute('aria-describedby',savedDescription)}active=null;}
  function position(){if(!active)return;const r=active.getBoundingClientRect(),w=box.offsetWidth,h=box.offsetHeight;box.style.left=Math.max(16,Math.min(r.left,innerWidth-w-16))+'px';box.style.top=Math.max(16,r.bottom+h+16<innerHeight?r.bottom+10:r.top-h-10)+'px';}
- function show(a){if(!fine.matches||active===a)return;const data=info(a);if(!data)return;hide();active=a;savedDescription=a.getAttribute('aria-describedby');timer=setTimeout(()=>{title.textContent=data.label;body.textContent=data.description;hint.textContent=data.note;position();box.setAttribute('aria-hidden','false');a.setAttribute('aria-describedby',[savedDescription,box.id].filter(Boolean).join(' '));box.classList.add('is-visible')},180);}
+ function show(a){if(!fine.matches)return;if(active===a){clearTimeout(closing);return;}const data=info(a);if(!data)return;hide();active=a;savedDescription=a.getAttribute('aria-describedby');timer=setTimeout(()=>{title.textContent=data.label;body.textContent=data.description;hint.textContent=data.note;position();box.setAttribute('aria-hidden','false');a.setAttribute('aria-describedby',[savedDescription,box.id].filter(Boolean).join(' '));box.classList.add('is-visible')},180);}
  const selector='#cards .card h2 a,.nav a,.desk-links a,#follow a,.index a,.stages a,.doors a';
  document.addEventListener('pointerover',e=>{const a=e.target.closest(selector);if(a)show(a)});
  document.addEventListener('pointerout',e=>{if(active&&active.contains(e.target)&&!active.contains(e.relatedTarget)&&!box.contains(e.relatedTarget))closing=setTimeout(hide,140)});
@@ -177,6 +177,6 @@ function commentBox(postId){
  document.addEventListener('focusin',e=>{const a=e.target.closest(selector);if(a)show(a)});
  document.addEventListener('focusout',e=>{if(active===e.target)hide()});
  document.addEventListener('keydown',e=>{if(e.key==='Escape')hide()});
- document.addEventListener('click',hide);addEventListener('scroll',hide,{passive:true});addEventListener('resize',hide);fine.addEventListener('change',hide);
+ document.addEventListener('click',hide);addEventListener('scroll',()=>{if(active===document.activeElement)position();else hide()},{passive:true});addEventListener('resize',hide);fine.addEventListener('change',hide);
 })();
 </script></body></html>
