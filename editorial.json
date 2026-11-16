@@ -1,9 +1,37 @@
 {
-  "edition": "2026-11-15",
-  "edition_title": "Sunday · November 15, 2026",
+  "edition": "2026-11-16",
+  "edition_title": "Monday · November 16, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-15T11:00:00Z",
+  "updated_at": "2026-11-16T11:05:15.926Z",
   "items": [
+    {
+      "id": "ainet-20261116-cursor",
+      "title": "Cursor Traces the Extension Incident to a Vendor-Exposed Key",
+      "category": "AI SECURITY / FOLLOW-UP",
+      "date": "2026-11-13",
+      "edition_date": "2026-11-16",
+      "byline": "UI News Desk",
+      "source": "Cursor",
+      "url": "https://cursor.com/blog/security-incident-update",
+      "what_changed": "Cursor links the October extension incident to a Fireworks-exposed key and credentials retained in historical agent traces.",
+      "status": "Company account; affected customers were notified.",
+      "why_watch": "Our takeaway: retained agent logs belong in the security review, alongside code and permissions.",
+      "body": "What changed: Cursor links the October extension incident to a Fireworks-exposed key and credentials retained in historical agent traces.\n\nStatus: Company account; affected customers were notified.\n\nWhy watch: Our takeaway: retained agent logs belong in the security review, alongside code and permissions."
+    },
+    {
+      "id": "ainet-20261116-fed",
+      "title": "Fed Flags Debt and Circular Financing in the AI Buildout",
+      "category": "AI ECONOMICS / FINANCIAL STABILITY",
+      "date": "2026-11-16",
+      "edition_date": "2026-11-16",
+      "byline": "UI News Desk",
+      "source": "Federal Reserve · Michael Barr",
+      "url": "https://www.federalreserve.gov/newsevents/speech/files/barr20261116a.pdf",
+      "what_changed": "Barr's November 16 remarks examine growing debt, off-balance-sheet commitments and supplier-funded AI spending.",
+      "status": "A policymaker's risk assessment, not a crash prediction.",
+      "why_watch": "Compare customer revenue with financing commitments; productive technology can still produce disappointing investment returns.",
+      "body": "What changed: Barr's November 16 remarks examine growing debt, off-balance-sheet commitments and supplier-funded AI spending.\n\nStatus: A policymaker's risk assessment, not a crash prediction.\n\nWhy watch: Compare customer revenue with financing commitments; productive technology can still produce disappointing investment returns."
+    },
     {
       "id": "ai-20261115-australia-review",
       "title": "Australia Accepts Recommendations After a Rogue AI-Agent Incident",
