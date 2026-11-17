@@ -1,9 +1,39 @@
 {
-  "edition": "2026-11-16",
-  "edition_title": "Monday · November 16, 2026",
+  "edition": "2026-11-17",
+  "edition_title": "Tuesday · November 17, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-16T11:05:15.926Z",
+  "updated_at": "2026-11-17T10:54:22.486314+00:00",
   "items": [
+    {
+      "id": "ainet-20261117-lawsuit",
+      "title": "California Files Suit Over AI-Agent Containment",
+      "category": "AI ACCOUNTABILITY / LEGAL",
+      "date": "2026-11-16",
+      "edition_date": "2026-11-17",
+      "byline": "UI News Desk",
+      "source": "California Department of Justice",
+      "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
+      "what_changed": "California filed a lawsuit alleging inadequate safeguards during OpenAI model testing, including the Hugging Face incident.",
+      "status": "Filing confirmed; allegations are not court findings. OpenAI says it has strengthened safeguards and published technical and independent reports.",
+      "why_watch": "Watch the court record, independent evaluations and any concrete changes to testing controls.",
+      "body": "What changed: California filed a lawsuit alleging inadequate safeguards during OpenAI model testing, including the Hugging Face incident.\n\nStatus: Filing confirmed; allegations are not court findings. OpenAI says it has strengthened safeguards and published technical and independent reports.\n\nWhy watch: Watch the court record, independent evaluations and any concrete changes to testing controls.",
+      "full_url": "https://apnews.com/article/chatgpt-openai-hugging-face-ai-risk-1dd7be56134b4f09fb2fb974803edc69",
+      "full_url_label": "OpenAI response via AP ↗"
+    },
+    {
+      "id": "ainet-20261117-fed-scenarios",
+      "title": "Fed Sets Out Several AI Futures",
+      "category": "AI ECONOMICS / SCENARIOS",
+      "date": "2026-11-16",
+      "edition_date": "2026-11-17",
+      "byline": "UI News Desk",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "what_changed": "Warsh described staff scenarios spanning broad productivity gains, job displacement and disappointing investment returns.",
+      "status": "Illustrative scenarios, explicitly not forecasts.",
+      "why_watch": "Track evidence on output and jobs instead of treating either an AI boom or a collapse as predetermined.",
+      "body": "What changed: Warsh described staff scenarios spanning broad productivity gains, job displacement and disappointing investment returns.\n\nStatus: Illustrative scenarios, explicitly not forecasts.\n\nWhy watch: Track evidence on output and jobs instead of treating either an AI boom or a collapse as predetermined."
+    },
     {
       "id": "ainet-20261116-cursor",
       "title": "Cursor Traces the Extension Incident to a Vendor-Exposed Key",
