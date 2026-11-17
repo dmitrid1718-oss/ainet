@@ -2,8 +2,36 @@
   "edition": "2026-11-17",
   "edition_title": "Tuesday · November 17, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-17T10:54:22.486314+00:00",
+  "updated_at": "2026-11-17T23:46:00+00:00",
   "items": [
+    {
+      "id": "ainet-20261117-evening-google-agentic",
+      "title": "Google Reports Autonomous Exploit Workflows in the Wild",
+      "category": "AI SECURITY / AGENTIC THREATS",
+      "date": "2026-11-17",
+      "edition_date": "2026-11-17",
+      "byline": "UI News Desk",
+      "source": "Google Threat Intelligence Group",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+      "what_changed": "Google's November 16 threat report describes observed attacker infrastructure using multi-agent systems for vulnerability discovery and exploit work without step-by-step human direction.",
+      "status": "Provider threat-intelligence findings; scope is the activity Google observed, not proof that all attacks are autonomous.",
+      "why_watch": "Track independent corroboration and practical defensive controls as offensive automation advances.",
+      "body": "What changed: Google's November 16 threat report describes observed attacker infrastructure using multi-agent systems for vulnerability discovery and exploit work without step-by-step human direction.\n\nStatus: Provider threat-intelligence findings; scope is the activity Google observed, not proof that all attacks are autonomous.\n\nWhy watch: Track independent corroboration and practical defensive controls as offensive automation advances."
+    },
+    {
+      "id": "ainet-20261117-evening-evaluations",
+      "title": "OpenAI Opens Embedded Assessments to Outside Researchers",
+      "category": "AI SAFETY / EXTERNAL EVALUATION",
+      "date": "2026-11-17",
+      "edition_date": "2026-11-17",
+      "byline": "UI News Desk",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+      "what_changed": "OpenAI outlined a first phase of embedded assessments with Apollo Research, METR, Transluce and Goodfire, granting varying forms of access to internal models and evaluations.",
+      "status": "Announced process and agreements, not yet proof that safeguards are effective; access and publication have conditions.",
+      "why_watch": "Watch completed reports, disclosed limitations, disagreements and independent findings rather than announcement alone.",
+      "body": "What changed: OpenAI outlined a first phase of embedded assessments with Apollo Research, METR, Transluce and Goodfire, granting varying forms of access to internal models and evaluations.\n\nStatus: Announced process and agreements, not yet proof that safeguards are effective; access and publication have conditions.\n\nWhy watch: Watch completed reports, disclosed limitations, disagreements and independent findings rather than announcement alone."
+    },
     {
       "id": "ainet-20261117-lawsuit",
       "title": "California Files Suit Over AI-Agent Containment",
