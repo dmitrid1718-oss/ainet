@@ -1,9 +1,23 @@
 {
-  "edition": "2026-11-17",
-  "edition_title": "Tuesday · November 17, 2026",
+  "edition": "2026-11-18",
+  "edition_title": "Wednesday · November 18, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-17T23:46:00+00:00",
+  "updated_at": "2026-11-18T11:22:57.430Z",
   "items": [
+    {
+      "id": "ainet-20261118-us-china-ai-disclosure",
+      "title": "U.S. Weighs Disclosure Rules for Chinese AI Use",
+      "category": "AI POLICY / US–CHINA",
+      "date": "2026-11-18",
+      "edition_date": "2026-11-18",
+      "byline": "UI News Desk",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/",
+      "what_changed": "Reuters reports the Trump administration is weighing requirements for U.S. firms to disclose their use of Chinese artificial-intelligence systems.",
+      "status": "Reported policy deliberation, not an adopted rule or published compliance deadline.",
+      "why_watch": "Watch any formal proposal, precise covered systems and sectors, industry responses and implementation language.",
+      "body": "What changed: Reuters reports the Trump administration is weighing requirements for U.S. firms to disclose their use of Chinese artificial-intelligence systems.\n\nStatus: Reported policy deliberation, not an adopted rule or published compliance deadline.\n\nWhy watch: Watch any formal proposal, precise covered systems and sectors, industry responses and implementation language."
+    },
     {
       "id": "ainet-20261117-evening-google-agentic",
       "title": "Google Reports Autonomous Exploit Workflows in the Wild",
