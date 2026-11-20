@@ -1,9 +1,22 @@
 {
-  "edition": "2026-11-18",
-  "edition_title": "Wednesday · November 18, 2026",
+  "edition": "2026-11-20",
+  "edition_title": "Friday · November 20, 2026",
   "byline": "UI News Desk",
-  "updated_at": "2026-11-18T11:22:57.430Z",
+  "updated_at": "2026-11-20T13:30:00Z",
   "items": [
+    {
+      "date": "2026-11-20",
+      "edition_date": "2026-11-20",
+      "byline": "UI News Desk",
+      "id": "ainet-20261120-anthropic-ipo",
+      "title": "Anthropic's Record IPO Meets a Weakening AI Trade",
+      "category": "AI ECONOMY / MARKET SIGNAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/",
+      "what_changed": "Anthropic began public trading November 19 after pricing shares at $83 in a record-size IPO. The shares opened at $111.50 and ended the first session at $97.17; they retreated further before Friday's opening.",
+      "status": "Verified trading history and premarket reports; Friday's final price is not yet established. A second-day decline alone does not prove a sector-wide collapse.",
+      "why_watch": "Track $83 offering price, trading volume, Nasdaq breadth, Nvidia and other AI-linked stocks. Distinguish profit-taking from sustained repricing."
+    },
     {
       "id": "ainet-20261118-us-china-ai-disclosure",
       "title": "U.S. Weighs Disclosure Rules for Chinese AI Use",
