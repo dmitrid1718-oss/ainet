@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-19T19:04:25.702302+00:00",
+  "updated_at": "2026-11-20T18:40:50.635285+00:00",
   "feed": "Google News RSS",
   "query": "artificial intelligence AI models agents research industry regulation",
   "items": [
+    {
+      "title": "AI guardrails falter as tampering drives repeated harassment in simulated conversations - Tech Xplore",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnhROTZMbDZRbDZicVFlV1M4amQxS1hNVHhtd01TUWZaMDljVkIwQTNScnZlU19FcEp5RGd0c2FKZk9PeE9tb2ZXOEtSSHJBN1BWS0dYcVd3R0RIUHZYUkZ3U1NzOHBGZjJ6dDgyRDdMLXNQVXJvd2RpOXhhaFJITjN3cTNCQk9C?oc=5",
+      "source": "Tech Xplore",
+      "published": "2026-11-20T15:20:14+00:00"
+    },
+    {
+      "title": "California Proposes AI 'Kill Switch' and Mandatory Safety Oversight - Law Commentary",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEJ3cUVSY1E2dkFCak5MWUR3YVRpeXl4cXp1VWlwanFWb0tLY0o3NVhGZWl4dkVLelkwNkpaUGhuanZwZS1TQ3FrVUZmbl9sVnl1X0ZzSVFOTU9wcWNLYWhrS1VuRk9yckFrbGlieF9QZXNFZUd1LWdoSTFNOV94Qm4wd3FoZllLU19jSk1TeGhORGdsT0E?oc=5",
+      "source": "Law Commentary",
+      "published": "2026-11-20T03:50:09+00:00"
+    },
     {
       "title": "Neurosymbolic AI: Solving AI's reliability [roblem - World Economic Forum",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUnZ3RGtGakJpVXRpQ25BYXdtcXMzQ2tJSDQzVXNQWHhhazBtZkk5VW5CZ2xodXVBdWZBSGkxYlN0UXhMVzFmOEtOc0ZWMTd6ZjBDQ1NkOWV2RzJpdjN5eENrWU54RlBYNWhDRnhxcV9iZDZaM0V6RFNadVVSV0Z1V1RIbWloaWIzQWdZX0RZOEhWYmtjZ3dIRnBvWWpWaWs3amc?oc=5",
@@ -10,10 +22,22 @@
       "published": "2026-11-19T14:33:10+00:00"
     },
     {
-      "title": "The rise of the AI decision model - TechTarget",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ET0VDTlk0RHdzX0d6UF8zeER5Y19rbThQdUxOQUxQY1FsVm94RW1kWGVxWHQ2YjdFYnlVWm0tNWRGRXVNT0ZyRE5zMngwUGtMbHFzY3FmZ1BRRjhNTkRoeWxuZngtWG5Gbm92eHZyem8tMC03NlF1OEY3NHIwZw?oc=5",
-      "source": "TechTarget",
-      "published": "2026-11-19T14:21:10+00:00"
+      "title": "Homeland Republicans Lead Legislation to Strengthen, Modernize DHS’s Cybersecurity Mission as AI Reshapes the Threat Landscape – Committee on Homeland Security - House Committee on Homeland Security (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMkhvV2taQ2lnNkJPZEtVOXNWR0NTckpGeTJwSlFRblM3WEhRcncyLXBkNzdhdzRKcWxrYjRjUWVVLXRQZG9yaEgwVDQ1c2lqV1dibGNuTVlWZHRGTlB2dzBrbkprVkpmR3lCbGtVZ1lYTnR4MG1tcUdlbDFTVTVzaHFfV2lYc253Yll6cFdtUUhteGlvUnZUeDBtTXluS0Z6SURkTjc2TmVQOTZ0aVNYLXFBOHFUeXF0QjBpU0xmZFpTOXdLV085ZkNRYTBzUjBhQWJzLWxWVWV1YlE1M3BoR2JtRVZUeTBJcGJpaXRzam5pZkdRcmc?oc=5",
+      "source": "House Committee on Homeland Security (.gov)",
+      "published": "2026-11-18T23:16:54+00:00"
+    },
+    {
+      "title": "Facephi Report Warns of 'Agent Takeover' as AI Fraud Profitability Surges 4.5x - FF News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNGxLSUVndEdJaFN4alZtaUtSMUFKbUh2cERDc082TFZiMzJzazhJblFxZXNQUnNNMGRPamh5ZU5NT0ZXbFFjWXFaMmRRWGJoamJMNXJVcHNSbU5sY01rZGliM05CWHR3LVNWZWcwRHdPTG9TamRGZkZfUUlVN3hQd25Ub1JhVC1URkw4U0FKZFVRUWpGS1hSOVlMNlgwWTJ4cHBXZ3gzQ2ZDVzhXTUQwTVg5MA?oc=5",
+      "source": "FF News",
+      "published": "2026-11-20T08:54:56+00:00"
+    },
+    {
+      "title": "UK Departments Issue First Cross-Sector AI Guidance for Social Care - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnZPVk5ycjZuMFBRT1FRZm5SZUdocGF3cmVTR2hPSlpYREhXb2NpQ0JoZWpwUEM4OWQ0dHphbUtHY2xfLVVLNVdacVdIOHFKbEs1NkdxYURqcUVMaWRsSmlQZG1PUWdBVllMMWk0SnVfX3VnaTd0dTJ5QmJNVEJqRFozYlNZM0tZSkFLYlYxbF9FSlk?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-20T10:13:01+00:00"
     },
     {
       "title": "Suspicious Minds: Unmonitorable AI Undermines Accountability - Institute for Law & AI",
@@ -28,40 +52,28 @@
       "published": "2026-11-19T15:26:02+00:00"
     },
     {
-      "title": "Effective practices: Cyber risk and resilience management relating to artificial intelligence (AI) - Bank of England",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOb1dlM1FHVFl4amt2Qk9nbTVMMERkVGFheXNVaGk2ajRFRVcxa21qaWJsLWdBd01YMVdoWlZvcFVEMmd0OXh4YnU2eVlUUUVNSFVWY09jNThrWEZxZ0lxNmlCaWR1V1dteFZpQmVXRGJfV3pKMkcxS09wTzktaHBjNEh2dXlQOGYxVFhkTHEwRGc0bk9ETXdQOUFQQ0VxOFJsRExLeGlfNWMtWTdBV3RQdTJFQ3oxbEg1NkJqa0F6WE91SXZwQzY0VXN5NjAwZmVhbDhUZzBPTGZCdnZuSklvclQtUTNVUUJva05UdjJzTkZHejBzV0REWnVZU0NUUmcxZUE?oc=5",
-      "source": "Bank of England",
-      "published": "2026-11-19T08:28:36+00:00"
-    },
-    {
       "title": "Arizona Probes OpenAI Over Rogue Agents, Names 0 Banks - shattered.io",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUFCdng0TjFrVm9jZFhNXzl0U3NwNnJXbGFIVWNNeUpHRVk2dmRHMHBpRE11ejE2Tl9YX3VzdFdOSGk0Zkx0Q0N1RDdtMzhUYXFoeGg1cGlHeG5KUktiUEgtV1hyckZMN3BYaUR1WTE1UUtQWmFGbzhDZV9xa1VCMmlwUzVzLVNVMFZpWW5BbEs3b08yOWtr?oc=5",
       "source": "shattered.io",
       "published": "2026-11-19T07:01:03+00:00"
     },
     {
-      "title": "What AI regulation could learn from the most hazardous industries in the world - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdllRcDN4MW1DLTlWSmg3MmNKUUVzbFNRbnBseFE2SEVrak5NaHV2SmhEU1EwZWpzcWYwbGo4cGRWVk9VN0gzZUJmSVoxcjlWSnJzd1dPNFpWdlE2OE5YcThkSjdxcDVKaVRBbjJsaDZqSnluWG9kUWlvLXJyeHpFQWtIMHBFaEdvRm1lWlozVTl4UUNja2xtZlBBVGZvVFNxR0dOS1RHM1RYRGtiNE1UQzRTTQ?oc=5",
-      "source": "The Conversation",
-      "published": "2026-11-17T16:25:49+00:00"
+      "title": "Effective practices: Cyber risk and resilience management relating to artificial intelligence (AI) - Bank of England",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOb1dlM1FHVFl4amt2Qk9nbTVMMERkVGFheXNVaGk2ajRFRVcxa21qaWJsLWdBd01YMVdoWlZvcFVEMmd0OXh4YnU2eVlUUUVNSFVWY09jNThrWEZxZ0lxNmlCaWR1V1dteFZpQmVXRGJfV3pKMkcxS09wTzktaHBjNEh2dXlQOGYxVFhkTHEwRGc0bk9ETXdQOUFQQ0VxOFJsRExLeGlfNWMtWTdBV3RQdTJFQ3oxbEg1NkJqa0F6WE91SXZwQzY0VXN5NjAwZmVhbDhUZzBPTGZCdnZuSklvclQtUTNVUUJva05UdjJzTkZHejBzV0REWnVZU0NUUmcxZUE?oc=5",
+      "source": "Bank of England",
+      "published": "2026-11-19T08:28:36+00:00"
     },
     {
-      "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSEZxR2xORGFTMTVuOXVRRzJQWlhFYk0weFBGRGNOQU9LS3BsZUZlNjFKR01KOExrb3duTUNBTks3Y0JjN05HcS1JS0wweEJXem9IQmxSVmR6blltMVpoRDhCbXZuSnFaVXJ3N25OY0I1OW52OEk3T0FhV2dYZS1XZDVTeWh5bE85M1NMWUJ6SUo4TnNTd0tqcGN0a21ZbFQyS09ZaFJGZzVsekhVLU5EbjlucENEUVBLMWh6UkF3?oc=5",
-      "source": "CoinDesk",
-      "published": "2026-11-17T13:08:58+00:00"
+      "title": "AI Tracker: AWS launches new features for agentic AI tool - Modern Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5",
+      "source": "Modern Healthcare",
+      "published": "2026-11-18T08:00:00+00:00"
     },
     {
-      "title": "As agentic AI seeps into finance, concerns grow over new risks and blind spots - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZDlERnA1YUc5b1ZORy00VklHa2YzdUJLZXc2S1pHN2tHSGpFczRDYmZxb292Y3gyVDZjRmFOMENneWJPWmdvbURnLUpTenFvNzl4dkJHZFowMWNiYXhEc2p2bll1RTY0MG1ySjAwLUJNeTNONnYyWFlZeUpzOU90ckJrRFJMMTl4UU1XREV5U2wyZDVmMnBuVFdoRWhReEExa21EdmZEVjRRR1l1TkpNM0lpODJMX3drenB0RUJud2JOZVpCZXNydnBTSjNaUWZkRXQyeUJGcGhJa0otZUdTZG1RSVVRWU94NEg3enJqb1kxUGJnNUJj?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-11-17T09:00:25+00:00"
-    },
-    {
-      "title": "Funding Tracker '26: Ours Privacy, Arintra and Happy Health - Fierce Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFJTdWtYZzBuMHVULWhJWFV3dVB3d0NfeEE1V0RMcV82Z2VFZ2ZtV2x2ZDBYTG1ZUnQ1RGFsZ0pFWmNFZW1rczNCOFRDUjFCTlFvUEplLVFuZmpHRVpfS2pZX3M1ZjZDaFUzZVV3QURjclpScmZlVndpaWlaN3hBNU11dWRpMkxmamp5ZXhR?oc=5",
-      "source": "Fierce Healthcare",
-      "published": "2026-11-17T08:00:00+00:00"
+      "title": "AI Ethics: What It Is, Why It Matters, and More - Coursera",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IT2pyQmw5M3BINDFPX3RXT1JOZzNoVHhlaldLWWctMkFCaDhYT2J5UGtqMWN0QVo4RTBwbXoxZENHQWFMeTJIT19QU1dnUHdlazVPWXVR?oc=5",
+      "source": "Coursera",
+      "published": "2026-11-18T08:00:00+00:00"
     },
     {
       "title": "SAS named major player in IDC agentic AI platform study - ChannelLife Australia",
@@ -70,16 +82,10 @@
       "published": "2026-11-18T23:21:00+00:00"
     },
     {
-      "title": "AI Safety Rules Your Company Never Signed May Be Used Against It - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNFdibmZ6T0hOaEJwUkFRWm9YRE1VaVJUM21MaE9rM2Myb0ZpUUJmSjNIMmhmb1BJTmxyM2JIWTdjUTBPS0ZNSjFuWjF6RjVHanlET0FDWkxxMHNMaVZibHpsSzNLbG9Od3hETFdka0pYdXlRWmhvS2ktZTY5anRUNmpmc182bmpCS054MzhyQy0wb25PLTc3X3pRMW1pbGEwRXFnSlRkX1VEbWZ3VUVHTnRNRGR3RF9NeTBNUTRydnM2aXZRNTkzb0JneDAyQQ?oc=5",
-      "source": "Bloomberg Law News",
-      "published": "2026-11-19T09:30:00+00:00"
-    },
-    {
-      "title": "AI agents promise a life free from friction. The cost could be human judgment. - Atlantic Council",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXR6dGhSMTlEYmNxLXhveU1KUGQ3ajZlWWI3aERTb25xYjZjcnd3NkVFZ1pfaDVYdHJfNnhXREZZWlRlS25xNTNjUnJsZzM1Nl9sZ1pMZ3hsMDJ5MWVxZXN5VnhrazRRdUlYVGhPNkNPNFRHUFY2Q1M0S1o0YksxekZPLVRuUHltdHEyX0xVZW9leVJtcnJ1ZXZPcnA2OGd4N3NmcHhjc1N5YmJLeU5ITExqbHRQeDJwN3pJYw?oc=5",
-      "source": "Atlantic Council",
-      "published": "2026-11-16T19:55:30+00:00"
+      "title": "UK Regulators Propose New Cyber Resilience Guidance for AI and Quantum Computing - FF News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTdIdTM2OVdjWUN1Y0RtLThnQ25KUWx6ZnVRQkRiSXBlMWJVWFp1bGhKUHp0QUEzLVRPa0pMVVc5NnhYaWJjWDhEXy1EUlBxUWRGWXM3UU43RmVkdnQ5TWlLNFRUNEFwY19NRE13MVcyMHB5enlSWDZjM0RxeVozOGdTbDJHRDYycVFZb3dVd1BLYmg5b3FFX3J1Q3AySkMtbXI3TWtrSWg?oc=5",
+      "source": "FF News",
+      "published": "2026-11-19T17:04:48+00:00"
     },
     {
       "title": "The New York Times. . “If the world and the companies developing A.I. treated the next four years like they’ve treated the last four years, I think that would be very bad,” Sam Altman, the founder of OpenAI, said in an interview with Andrew",
@@ -88,28 +94,22 @@
       "published": "2026-11-18T17:12:17+00:00"
     },
     {
+      "title": "AI Legislation in the New Congress: Data Centers, Frontier AI, Cybersecurity & More - Crowell & Moring LLP",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGJpWmp4VFUwV3J3eWRkU0JUUFNIbkJFTmF4eFpXbzFvSURkYWJuc0Rjd2hrc1RGS2dBdGVfcXJJNm9IdldyUGxxTzU2Um1TSmttZWdWS0s0eW14aFFYVEZtRVk1NERRN3pNdE1mMGcyUlFKMzUtRjNnZXJESGpqR2U4R1AzNi1qLWp0NVdtdUhwTEt5NDlGQk9lU3dZRUlPVXpFOXBRMHR5Wks5WnZvNVU3bw?oc=5",
+      "source": "Crowell & Moring LLP",
+      "published": "2026-11-17T23:18:07+00:00"
+    },
+    {
       "title": "Pulling the Plug on AI: Why Kill Switches Cannot Replace Governance - JD Supra",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wWWxtWWw0eXpDbkppT2tmbXRxY3BpY2tsVXZqVFpOYW9NNnlVbkxwc01idEhna2xXZXc3ZUVZdm1Oczc3cFBPRG1NZThaZWs3VFYtVFBlUGs1dXhEaXAwaUN2NFFtbk9RcGtqSkh4eTVtSG5GR1JwenFBaEJSV1E?oc=5",
       "source": "JD Supra",
       "published": "2026-11-17T19:28:01+00:00"
     },
     {
-      "title": "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemJ2WmtQZV96U0x6Z1FzanV3YlQwT2k5ZXk3Wnc3RzI2cVFsNDdjaHk5TTJJU0FiNnVPYllVYnRVcjZkTEMwYVZ6bU01SE54THNuRl9NdUVrekhxdXlwaVBubmhJTEt6Z1V4R2kwTGpjdmVkdkxxVl9vVkZXYWFuR1lEdjRWUnVPVG4tQVRLdVp4bXJvaVhSM1pXN25keDRrNXA4S0dvWWZoX3FfSE93?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-17T09:41:08+00:00"
-    },
-    {
-      "title": "AI agents at scale: Why programmes fail and how to fix them - World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHNJaFpsVU5TNDVHdlJxVEVacVdIM29tRzRXampJaVVLd21KWVVHekVTYlRCV0U2Q2pmR2lhT056OEdjc29tQWFvQ1RtQ1FWWU5wMzgtZEYyekR2YWFXR19rTmpTZ3NCX1R6dmNFOVFWdUtoYlpEYTgyalBPQV90aHlYVzlCa3Z4RmZieFB6Q1puUnh2Y19ucXhKRHNXNVdTM3NGWQ?oc=5",
-      "source": "World Economic Forum",
-      "published": "2026-11-19T16:48:37+00:00"
-    },
-    {
-      "title": "OpenAI’s Agents Broke Out, and California Sent the Bill - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1kteE5oU1lmQm5qeWVhRGJMbWQ0WDRNaGY3NXluZFk0QjJZNVJkdktJenBNbE1QM2c4MXdheXg3TUFGb2lMWi1IamFNZFRVbGktLUkwOS1raFlVak01UloxNXNPSnY2VkplUC1VVDlfSE40RUNrd1VxYnljdF9OY0pqcWlZdEc2RUFKaE4zc2VhaDdWR1hSUnBnNThJZS1CdlNHZnBPeTNQdXA4Ql93TA?oc=5",
-      "source": "PYMNTS.com",
-      "published": "2026-11-18T17:28:27+00:00"
+      "title": "OCC’s AI Examiner Framework: How Banks’ AI Use Can Trigger Legal Liability And Supervisory Exposure - Legal 500",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUnNBRnpFQkNybjRVM3hnYU5UeWVEV1FrUTYwS2hjTG5NTjFDc2ZId19BaG5hcGRwc29PaUZKZl84THVFUWRvNl9USVBhVlh1czNqb0FxZHJQbkRINHJQd3BVMmIycEJabWhjTkJMU3ZxcjRRb25qdWE5bTY1TEpQM0pQU3FNZXhWdDI5NWRSR0xIQXYzN2R0N1M4STF1ZVdUVTEwdkdwLUxicks0SEJnejRSX2lqUmpNbTI0ZW9CeEx0bm5aMHJKRDV0VXZVR1U0SS1nMHJzbW9mRUJKaDV4eUs1UmlEWXNOYWVjLUJaY1NfZ3Nad2c0cFMtekM?oc=5",
+      "source": "Legal 500",
+      "published": "2026-11-20T15:24:12+00:00"
     }
   ]
 }
